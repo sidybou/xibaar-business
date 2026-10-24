@@ -1,0 +1,50 @@
+name: Mise à jour des nouvelles
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # toutes les heures
+  workflow_dispatch:         # bouton pour lancer à la main
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  mise-a-jour:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collecter les nouvelles
+        run: python collecte.py
+
+      - name: Enregistrer les nouvelles
+        run: |
+          git config user.name "xibaar-bot"
+          git config user.email "xibaar-bot@users.noreply.github.com"
+          git add articles.json
+          git diff --staged --quiet || (git commit -m "Mise à jour des nouvelles" && git push)
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Mettre le site en ligne
+        id: deploiement
+        uses: actions/deploy-pages@v4
