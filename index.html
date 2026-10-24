@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Xibaar Business</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FFFFFF; --surface:#FFFFFF; --ink:#1F1A17; --muted:#6B625C; --line:#ECE6E1;
+  --sea:#A4512F; --sea-soft:#F7EDE7; --sun:#A4512F; --sun-soft:#FAF3EE;
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#1A1614; --surface:#231E1B; --ink:#EFE8E3; --muted:#A99D95; --line:#3A312C;
+    --sea:#E0906B; --sea-soft:#3A2820; --sun:#E0906B; --sun-soft:#2C221D; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#1A1614; --surface:#231E1B; --ink:#EFE8E3; --muted:#A99D95; --line:#3A312C;
+  --sea:#E0906B; --sea-soft:#3A2820; --sun:#E0906B; --sun-soft:#2C221D; color-scheme:dark;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 "Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:640px;margin:0 auto;padding:0 20px 110px}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--sea);outline-offset:2px;border-radius:6px}
+
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding:18px 0 10px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.brand{font:800 26px/1 "Bricolage Grotesque",system-ui,sans-serif;letter-spacing:-.02em;margin:0}
+.brand span{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--sun);margin-left:3px;vertical-align:4px}
+.date{color:var(--muted);font-size:14px;margin:4px 0 0}
+.icon-btn{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;color:var(--muted)}
+.icon-btn:hover{background:var(--sea-soft)}
+.search{display:none;margin-top:12px}
+.search.open{display:block}
+.search input{width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink);font:inherit}
+
+.notice{font-size:13px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:8px 12px;margin:6px 0 18px}
+
+.brief{background:var(--sun-soft);border-radius:14px;margin-bottom:22px;position:relative;overflow:hidden}
+.brief summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px 14px 20px;cursor:pointer}
+.brief summary::-webkit-details-marker{display:none}
+.chev{flex:none;color:var(--sea);transition:transform .2s}
+.brief[open] .chev{transform:rotate(180deg)}
+.brief::before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--sun)}
+.brief h2{font:700 17px/1.2 "Bricolage Grotesque",system-ui,sans-serif;margin:0}
+.brief .sub{display:block;color:var(--muted);font-size:13px;margin-top:2px}
+.brief ol{margin:0;padding:0 20px 8px 40px;font-size:15px}
+.brief li{margin:0 0 10px;padding-left:4px}
+.brief li::marker{font-weight:600;color:var(--muted)}
+
+.chips{display:flex;gap:8px;overflow-x:auto;padding:2px 0 14px;scrollbar-width:none;margin:0 -20px;padding-left:20px;padding-right:20px}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-size:14px;font-weight:500;color:var(--muted)}
+.chip[aria-pressed="true"]{background:var(--sea);border-color:var(--sea);color:var(--bg)}
+
+.list{list-style:none;margin:0;padding:0}
+.item{border-bottom:1px solid var(--line)}
+.item>button{display:block;width:100%;text-align:left;padding:16px 0}
+.meta{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+.dot{width:8px;height:8px;border-radius:50%;flex:none}
+.title{font:600 17px/1.35 "Public Sans",system-ui,sans-serif;margin:6px 0 0}
+.item.read .title{color:var(--muted);font-weight:500}
+.detail{display:none;padding:0 0 18px}
+.item.open .detail{display:block}
+.detail p{margin:0 0 12px}
+.why{background:var(--sea-soft);border-radius:12px;padding:12px 14px;font-size:15px}
+.why strong{display:block;font-size:13px;color:var(--sea);margin-bottom:2px}
+.actions{display:flex;gap:10px;margin-top:12px;flex-wrap:wrap}
+.btn{padding:9px 14px;border-radius:10px;border:1px solid var(--line);font-size:14px;font-weight:500;background:var(--surface)}
+.btn.primary{background:var(--sea);border-color:var(--sea);color:var(--bg)}
+.btn[aria-pressed="true"]{border-color:var(--sun);background:var(--sun-soft)}
+.empty{color:var(--muted);text-align:center;padding:40px 10px}
+
+nav{position:fixed;left:0;right:0;bottom:0;background:var(--surface);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px);z-index:6}
+nav .in{max-width:640px;margin:0 auto;display:flex}
+nav button{flex:1;padding:12px 0 14px;font-size:13px;font-weight:600;color:var(--muted);display:flex;flex-direction:column;align-items:center;gap:3px}
+nav button[aria-current="page"]{color:var(--sea)}
+@media (prefers-reduced-motion:no-preference){.item.open .detail{animation:open .18s ease-out}}
+@keyframes open{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:none}}
+
+.status{color:var(--muted);font-size:13px;margin:0 0 16px}
+a.btn{text-decoration:none;color:inherit;display:inline-block}
+a.btn.primary{color:var(--bg)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="top">
+      <div>
+        <h1 class="brand">Xibaar Business<span aria-hidden="true"></span></h1>
+        <p class="date" id="date"></p>
+      </div>
+      <button class="icon-btn" id="searchBtn" aria-label="Rechercher" aria-expanded="false">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </button>
+    </div>
+    <div class="search" id="searchBox"><input id="q" type="search" placeholder="Rechercher une entreprise, un sujet…" aria-label="Rechercher"></div>
+  </header>
+
+  <main id="feedView">
+    <p class="status" id="status">Chargement des nouvelles…</p>
+    <div class="chips" id="chips" role="toolbar" aria-label="Filtrer par secteur"></div>
+    <ul class="list" id="feed"></ul>
+  </main>
+
+  <main id="savedView" hidden>
+    <h2 style="font:700 20px 'Bricolage Grotesque',system-ui,sans-serif;margin:8px 0 6px">Enregistrés</h2>
+    <ul class="list" id="saved"></ul>
+  </main>
+</div>
+
+<nav aria-label="Navigation">
+  <div class="in">
+    <button id="tabFeed" aria-current="page">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Fil
+    </button>
+    <button id="tabSaved">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12v18l-6-4-6 4z"/></svg>Enregistrés
+    </button>
+  </div>
+</nav>
+
+<script>
+let SECTORS = {}, ARTICLES = [];
+const store = {
+  get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},
+  set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+};
+let saved = store.get("xb-saved",{});            // lien -> article
+let read = new Set(store.get("xb-read",[]));
+let sector = "all", query = "";
+
+const esc = s => String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const norm = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+
+function ago(iso){
+  const m = Math.round((Date.now()-new Date(iso))/60000);
+  if(m<1) return "à l’instant";
+  if(m<60) return `il y a ${m} min`;
+  const h = Math.round(m/60);
+  if(h<24) return `il y a ${h} h`;
+  const d = Math.round(h/24);
+  return d===1 ? "hier" : `il y a ${d} jours`;
+}
+
+document.getElementById("date").textContent =
+  new Date().toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"}).replace(/^./,c=>c.toUpperCase());
+
+function buildChips(){
+  const chips=document.getElementById("chips");
+  chips.innerHTML = `<button class="chip" data-s="all" aria-pressed="true">Tout</button>` +
+    Object.entries(SECTORS).map(([k,v])=>`<button class="chip" data-s="${esc(k)}" aria-pressed="false">${esc(v.nom)}</button>`).join("");
+  chips.addEventListener("click",e=>{
+    const b=e.target.closest(".chip"); if(!b) return;
+    sector=b.dataset.s;
+    chips.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",c===b));
+    render();
+  });
+}
+
+function itemHTML(a){
+  const sec=SECTORS[a.secteur]||{nom:"",couleur:"#999"};
+  const isSaved = !!saved[a.lien];
+  const safeLink = /^https?:\/\//.test(a.lien) ? a.lien : "#";
+  return `<li class="item ${read.has(a.lien)?"read":""}" data-link="${esc(a.lien)}">
+    <button class="toggle" aria-expanded="false">
+      <div class="meta"><span class="dot" style="background:${esc(sec.couleur)}"></span>${esc(sec.nom)}<span>•</span>${ago(a.date)}</div>
+      <p class="title">${esc(a.titre)}</p>
+    </button>
+    <div class="detail">
+      <div class="actions">
+        <a class="btn primary" href="${esc(safeLink)}" target="_blank" rel="noopener noreferrer">Lire sur ${esc(a.source)}</a>
+        <button class="btn" type="button" data-act="save" aria-pressed="${isSaved}">${isSaved?"Enregistré":"Enregistrer"}</button>
+      </div>
+    </div>
+  </li>`;
+}
+
+function render(){
+  const q=norm(query.trim());
+  const list=ARTICLES.filter(a=>(sector==="all"||a.secteur===sector)&&(!q||norm(a.titre+" "+a.source).includes(q)));
+  document.getElementById("feed").innerHTML = list.length ? list.map(itemHTML).join("")
+    : `<li class="empty">Aucun article ne correspond. Essayez un autre mot ou un autre secteur.</li>`;
+  const sv=Object.values(saved).sort((a,b)=>b.date.localeCompare(a.date));
+  document.getElementById("saved").innerHTML = sv.length ? sv.map(itemHTML).join("")
+    : `<li class="empty">Aucun article enregistré. Touchez « Enregistrer » sous un article pour le retrouver ici.</li>`;
+}
+
+function find(link){ return ARTICLES.find(a=>a.lien===link) || saved[link]; }
+
+document.addEventListener("click",e=>{
+  const li=e.target.closest(".item"); if(!li) return;
+  const link=li.dataset.link;
+  if(e.target.closest(".toggle")){
+    const open=li.classList.toggle("open");
+    li.querySelector(".toggle").setAttribute("aria-expanded",open);
+    return;
+  }
+  if(e.target.closest("a.btn")){
+    read.add(link); store.set("xb-read",[...read].slice(-500)); li.classList.add("read");
+    return;
+  }
+  const act=e.target.closest("[data-act=save]");
+  if(!act) return;
+  if(saved[link]) delete saved[link]; else { const a=find(link); if(a) saved[link]=a; }
+  store.set("xb-saved",saved);
+  act.setAttribute("aria-pressed",!!saved[link]);
+  act.textContent=saved[link]?"Enregistré":"Enregistrer";
+  if(!document.getElementById("savedView").hidden) render();
+});
+
+const sb=document.getElementById("searchBtn"), box=document.getElementById("searchBox"), qi=document.getElementById("q");
+sb.addEventListener("click",()=>{const o=box.classList.toggle("open");sb.setAttribute("aria-expanded",o);if(o)qi.focus();else{qi.value="";query="";render()}});
+qi.addEventListener("input",()=>{query=qi.value;render()});
+
+const tf=document.getElementById("tabFeed"), ts=document.getElementById("tabSaved");
+function tab(which){
+  document.getElementById("feedView").hidden = which!=="feed";
+  document.getElementById("savedView").hidden = which!=="saved";
+  tf.removeAttribute("aria-current"); ts.removeAttribute("aria-current");
+  (which==="feed"?tf:ts).setAttribute("aria-current","page");
+  render(); window.scrollTo(0,0);
+}
+tf.addEventListener("click",()=>tab("feed"));
+ts.addEventListener("click",()=>tab("saved"));
+
+fetch("articles.json",{cache:"no-store"})
+  .then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d=>{
+    d.secteurs.forEach(s=>SECTORS[s.id]=s);
+    ARTICLES=d.articles;
+    document.getElementById("status").textContent = `${ARTICLES.length} nouvelles des 7 derniers jours • mis à jour ${ago(d.maj)}`;
+    buildChips(); render();
+  })
+  .catch(()=>{
+    document.getElementById("status").textContent = "Les nouvelles ne sont pas encore disponibles. La première collecte se fait dans les minutes qui suivent la mise en ligne ; rechargez la page un peu plus tard.";
+  });
+</script>
+</body>
+</html>

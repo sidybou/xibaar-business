@@ -1,0 +1,71 @@
+{
+  "jours": 7,
+  "max_articles": 200,
+  "secteurs": [
+    {
+      "id": "energie",
+      "nom": "Énergie et mines",
+      "couleur": "#C98A0B",
+      "recherches": [
+        "Sénégal (pétrole OR gaz OR Sangomar OR GTA OR hydrocarbures)",
+        "Sénégal (mines OR phosphates OR or OR zircon)",
+        "Senelec OR \"électricité Sénégal\""
+      ]
+    },
+    {
+      "id": "finance",
+      "nom": "Finance et marchés",
+      "couleur": "#2F6FA3",
+      "recherches": [
+        "BRVM (Sénégal OR Sonatel)",
+        "Sénégal (dette OR FMI OR eurobond OR obligations)",
+        "Sénégal (banque OR BCEAO OR microfinance)"
+      ]
+    },
+    {
+      "id": "agri",
+      "nom": "Agriculture",
+      "couleur": "#3D8B4F",
+      "recherches": [
+        "Sénégal (arachide OR riz OR horticulture OR agriculture)",
+        "Sénégal (pêche OR élevage)"
+      ]
+    },
+    {
+      "id": "infra",
+      "nom": "Infrastructures",
+      "couleur": "#8A5A44",
+      "recherches": [
+        "\"Port de Dakar\" OR Ndayane OR \"port autonome de Dakar\"",
+        "Sénégal (TER OR BRT OR autoroute OR BTP OR logement)"
+      ]
+    },
+    {
+      "id": "tech",
+      "nom": "Télécoms et tech",
+      "couleur": "#7A4FB0",
+      "recherches": [
+        "Sonatel OR \"Orange Sénégal\" OR \"Wave Sénégal\" OR \"Free Sénégal\"",
+        "Sénégal (startup OR numérique OR fintech)"
+      ]
+    },
+    {
+      "id": "politique",
+      "nom": "Politique économique",
+      "couleur": "#B5463C",
+      "recherches": [
+        "Sénégal (budget OR \"loi de finances\" OR fiscalité OR impôts)",
+        "Sénégal (croissance OR inflation OR \"Vision Sénégal 2050\")"
+      ]
+    },
+    {
+      "id": "invest",
+      "nom": "Investissements",
+      "couleur": "#1F8A8A",
+      "recherches": [
+        "Sénégal (APIX OR investissement OR investisseurs)",
+        "Sénégal (\"appel d'offres\" OR usine OR implantation)"
+      ]
+    }
+  ]
+}
