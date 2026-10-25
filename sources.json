@@ -1,6 +1,47 @@
 {
   "jours": 7,
   "max_articles": 200,
+  "exclure": [
+    "accident",
+    "accidents",
+    "camion renversé",
+    "collision",
+    "embouteillage",
+    "embouteillages",
+    "mort",
+    "morts",
+    "décès",
+    "décédé",
+    "tué",
+    "tués",
+    "blessé",
+    "blessés",
+    "noyade",
+    "incendie",
+    "meurtre",
+    "agression",
+    "viol",
+    "braquage",
+    "arrestation",
+    "arrêté pour",
+    "garde à vue",
+    "cambriolage",
+    "drame",
+    "football",
+    "match",
+    "Lions",
+    "CAN",
+    "lutte",
+    "lutteur",
+    "basket",
+    "législatives",
+    "présidentielle",
+    "meeting",
+    "militants",
+    "opposant",
+    "parti politique",
+    "coalition"
+  ],
   "secteurs": [
     {
       "id": "energie",
@@ -37,7 +78,7 @@
       "couleur": "#8A5A44",
       "recherches": [
         "\"Port de Dakar\" OR Ndayane OR \"port autonome de Dakar\"",
-        "Sénégal (TER OR BRT OR autoroute OR BTP OR logement)"
+        "Sénégal (TER OR BRT OR BTP OR \"travaux routiers\" OR \"autoroute à péage\" OR \"logements sociaux\")"
       ]
     },
     {

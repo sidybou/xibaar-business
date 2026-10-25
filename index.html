@@ -37,7 +37,6 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding:18px 0 10px}
 .top{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .brand{font:800 26px/1 "Bricolage Grotesque",system-ui,sans-serif;letter-spacing:-.02em;margin:0}
-.brand span{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--sun);margin-left:3px;vertical-align:4px}
 .date{color:var(--muted);font-size:14px;margin:4px 0 0}
 .icon-btn{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;color:var(--muted)}
 .icon-btn:hover{background:var(--sea-soft)}
@@ -99,7 +98,7 @@ a.btn.primary{color:var(--bg)}
   <header>
     <div class="top">
       <div>
-        <h1 class="brand">Xibaar Business<span aria-hidden="true"></span></h1>
+        <h1 class="brand">Xibaar Business</h1>
         <p class="date" id="date"></p>
       </div>
       <button class="icon-btn" id="searchBtn" aria-label="Rechercher" aria-expanded="false">

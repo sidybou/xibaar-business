@@ -38,6 +38,15 @@ def cle(titre):
     return re.sub(r"[^a-z0-9]+", " ", t).strip()[:90]
 
 
+EXCLURE = []  # rempli plus bas, après la définition de cle()
+
+
+def exclu(titre):
+    """Vrai si le titre contient un mot de la liste « exclure » (faits divers, sport, politique pure)."""
+    t = " " + cle(titre) + " "
+    return any(" " + m + " " in t for m in EXCLURE)
+
+
 def lire_flux(contenu, secteur, articles):
     racine = ET.fromstring(contenu)
     for item in racine.iter("item"):
@@ -54,6 +63,8 @@ def lire_flux(contenu, secteur, articles):
         if date.tzinfo is None:
             date = date.replace(tzinfo=timezone.utc)
         k = cle(titre)
+        if exclu(titre):
+            continue
         if date < LIMITE or not k or not lien.startswith("http") or k in articles:
             continue
         articles[k] = {
@@ -66,6 +77,7 @@ def lire_flux(contenu, secteur, articles):
 
 
 def main():
+    EXCLURE.extend(cle(m) for m in config.get("exclure", []))
     articles = {}
     for s in config["secteurs"]:
         for recherche in s["recherches"]:
