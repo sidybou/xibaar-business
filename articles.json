@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-04T01:23:27.515629+00:00",
+ "maj": "2026-11-04T09:15:37.451692+00:00",
  "secteurs": [
   {
    "id": "energie",
@@ -39,11 +39,81 @@
  ],
  "articles": [
   {
+   "titre": "Sénégal : Le budget rejeté révèle la guerre au sommet de l’État",
+   "source": "fr.infosgabon.com",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUo1VjV5NUdabnhldDdzWmdkckJFT0VsSVdDMU9pdnlySHBMb0JkMUVJTDZZenlwZVNMX0ZLQ2pvR1B5ZkJTTk11N00yaFZEbml5d1ZmdjV5am1rUHRIcjFfcmJvbW8xVVZmNE5hdHVQRlJaMHlraWJ0UERScFB3X0FURGtKY2s2WHFEM1F4VDc?oc=5",
+   "date": "2026-11-04T08:36:06+00:00",
+   "secteur": "politique"
+  },
+  {
+   "titre": "Sénégal: l’UEMOA salue l’accord avec le FMI et la résilience économique",
+   "source": "APAnews - Agence de Presse Africaine",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkxDS3RzV0lkVXV4TFRnSXhTa3B1SThGNnZBV09Eb2FRNjI3eVJKSGxlMk5RaGhfSkJGMExuYU1RVHIxYmxxd0szNXM5UHNHa3ROWTlXUFR0N3ppSk9iQklXSGZIV1ZPY2tWUndJckpmTHNEeTRIeEY0SVJrMlAybHpJcmdaOVp4QjRUMjBvQ1lyZUlISi1xV1czLWhWTmtOMFNF?oc=5",
+   "date": "2026-11-04T07:37:15+00:00",
+   "secteur": "finance"
+  },
+  {
+   "titre": "Abdoulaye Diop affirme que les partenaires sont prêts à accompagner le Sénégal à court terme",
+   "source": "Senego.com",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMF9HSVI0OWVaQXMyUUdJOXNOR2ZGZ200REx5MlJSQXFRc2U2T0NRQzdyTkxGSm9FZUZENFdlVG5Rc3ZKdFBaOVlWNjhiN0hGR20zNTZ3OTNSazhaLXRGOVY2VmJzWE1vY1hzUlpmcjNHajZVR3RuYjFpRm9hZmpHNmVCSThQSnBrMHpjVk5pS3MtRm9BZFhuRnpaczlQaVBoUGlRRDFFZ1JjSXdaZ0IyQ1NYT3hxM0tQWElkdG9Pd1Q5Zw?oc=5",
+   "date": "2026-11-04T06:22:08+00:00",
+   "secteur": "finance"
+  },
+  {
+   "titre": "Sénégal : le budget rectificatif 2026 rejeté par l’Assemblée nationale",
+   "source": "AGENCE ECOFIN",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSW40alc2Q0d1MUtGZnFYT1FwWERLaE50czNwQkZ0WExDYTdxY0NKT1RFWmJkNVNrQmtJZnFwZU5KcC1JbVpsVWN6dFN1ZGFGZWU2dWh0VkI4eTVkWUFiSmdiQ3NyaVFfbGpOdVhkemRYMzBBdDJVTzcya0xQSy1Dc0ZzdmJleFhaTUUxbGVQT3djdzJObHR2ZFJJdUVxc3F1UWJlcGRZQ191NVJ3UzdQNGgwQUtLeFBCZzM3UmI3cUxRSzNNTXBv?oc=5",
+   "date": "2026-11-04T06:09:00+00:00",
+   "secteur": "finance"
+  },
+  {
+   "titre": "Le CEPEX organise la participation des entreprises tunisiennes au Salon SENCON",
+   "source": "African Manager",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTdxVEhOVWx1LVlVQU8wVXJFdUVmYUhXaDlUdDI4OHJHTG0xRVB3ekxPV1c1dUpWTm5JYlJkT0RuaFIzdFliSHdEV2FzUzhaaTJWMUc4V2RmU2dlRWdabGVWUlpBdzJqVkJkUVp2RW1Ea05kQUpmaG9ldUlfVVFEazJhWmMzUG9QQlBEcnpMUHdZVVlJOEtDVENDMlcxem1sY2dIemd1OE9nUQ?oc=5",
+   "date": "2026-11-04T05:41:25+00:00",
+   "secteur": "infra"
+  },
+  {
+   "titre": "UMOA-Titres : Le Sénégal lève 60 milliards FCFA avec un fort soutien des investisseurs locaux",
+   "source": "Sika Finance",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWRsWmpESUJOLTBTWjNkT19rZWQzOWRRbTlDc3RmWDJMUlVtTnhVdndvWll5eURaWk4tNmZOa1BoNEUwd3ZRWDE3enFCdHZsVkpoU2tBSEs4eTdDN2NXVXQ2R005TU5FcGVEVXYwRTVmczFQQTR2Y3JvVzRwdzBhWHF0amtMWEFvM3BNd2wyci1KS3hEeE05blhEUklBUVlOYjVVdG9wXzFXRnF0c1JxVEFUVHIwaGRtb2tXeXZqWDliU0ZOTnEwWmplZzdlQQ?oc=5",
+   "date": "2026-11-04T03:42:47+00:00",
+   "secteur": "invest"
+  },
+  {
+   "titre": "Au Sénégal, rejet d’un budget rectificatif jugé crucial pour une aide du FMI",
+   "source": "Ouragan.cd",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0NMNXNoSURmWnZWb3FLakNmRGgwUC1mdFduU1Fmb1pWWEF3djZaakR3dlp5eGhoelVjb3lfalhBaEkyQzFPa3NGZkoxcEMxZDN5V2pZZ2VtTUdIWWJNYVg1YjRFRzRLQVh3YWN3YW03dHNUcnZQcDlXZXYwblp0X283X0FQRGdQWk9ISlJoVFQwaEd4bFZGTEVyaE9VaWp4M3FLag?oc=5",
+   "date": "2026-11-04T03:17:00+00:00",
+   "secteur": "finance"
+  },
+  {
+   "titre": "SUTELEC dénonce le passage en force sur Akilee et réclame la prime PRAB 2025",
+   "source": "Senego.com",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2dUOEo4ZkVwRTVseGtIZ3hPRFVfQWhMZkJjbHFVN3RSZURfQklrOXBiWURvcmJvYkUyZUUtWmpYNlB4ZVJrRkhMNTVoTzlnelNFX25oMWNvbV9MWEZSdGhocjcxX0dpdHBXWFE1S3BCLV84ckFwT2FiUHB0MzJxcGUyOXpLNXZZWWphV3JPWGYwVndPYW9ub244bEp1a28tNXFNRURjLU5qWVo2?oc=5",
+   "date": "2026-11-04T01:44:22+00:00",
+   "secteur": "energie"
+  },
+  {
+   "titre": "Abdoulaye Diop (UEMOA) : « La situation économique du Sénégal est difficile, mais pas irrémédiablement compromise",
+   "source": "Seneweb",
+   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeHB3bm1OUHU2VlE3UC1yLWM4ZmhJVE5WSWNFbkw0YWFid21VZEE5cW5LenJXZU8zREhqOUhSSnZFbkl0LUtDdFdibDRqNXhHS2NnbjNQUm10QUpzS25welpCRFRKSTJmNTRhU3RLRXZjOS1QTnpOVmxUSXZ4UTAyRTFGSWVMdUNFb1BsNWt2eFJNMUMyYm8tWm4wYjdTeEF1Y3RDTTJqMHF0cTFGQnEzZjhBNlVDSEhDdFZxUWNtaGF3bWVsYVNmTGR6X2Y0UTdTUkhrbUcxbGtidnc0V3RTRC1idHpXZllxdjdnRGdDc3R1V2xVcUN3?oc=5",
+   "date": "2026-11-04T01:16:08+00:00",
+   "secteur": "finance"
+  },
+  {
    "titre": "Cuba bat le Taïwan chinois et remporte l'or aux Jeux Olympiques de Baseball5 pour les jeunes",
    "source": "CiberCuba",
    "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEN4ck4tLW5EUzhLcVRGSUM0TWYwNzJXaUhmdTd0REpCVXVuQUZUUUg3cEl4Q19pZEstNDlqcXNDTkwwZ0V2UWl5dDlyV2dlUFJUYXVLN1dtNUo2bmxERk92REJvckRiNGctbDNreGE3d1ZjcE5HSk9ZbFFWWFoyQ0tBNU1acTlxZVlCVldIM3d5eU9aZUZxY2Q4UGdzYkx5UFpOM2dnSi1MLU5Mb2ZCXzVaY0ZlMGZ2OWtOVDczV0dpZlU?oc=5",
    "date": "2026-11-04T00:37:05+00:00",
    "secteur": "energie"
+  },
+  {
+   "titre": "Au Sénégal, le rejet du budget rectificatif révèle une rupture entre la majorité Pastef et le gouvernement",
+   "source": "Ecostylia",
+   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44bk9SMTZuanJzNlpBRkNITm5POUotb2c5TldBOW5meWV2enB3VWdOWmJ4dGdOS3N6Y0FUNXg5Sk9WSmEzM29XdmRJMWZ3WHVDcEJRbFV4eXNwZDBsVVRNU2tETmI?oc=5",
+   "date": "2026-11-04T00:26:13+00:00",
+   "secteur": "finance"
   },
   {
    "titre": "Quand la « majorité mécanique » étrangle l’économie : le coût du rejet de la loi de finances rectificative",
@@ -63,14 +133,21 @@
    "titre": "PI-SPI : la révolution silencieuse des paiements dans l’UEMOA",
    "source": "Senegal Direct",
    "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXA5MklXQWg3cG9NYUJOZU9hQ29lNlhiZEtaR0o2SWRvV21mTERNNjNsRzBqUy1nbklQeWVoMUJCWjRCMmFuVXVGY0ZKSjdxQlJxYjE0eFRYc24zYmxGaFJTNFZiQ2hPd2FyMTNDeUwwS1NxSTlPbWVKMFVCQ3BELTJod2dGTnd3N21GNWdB?oc=5",
-   "date": "2026-11-03T23:29:31+00:00",
+   "date": "2026-11-03T23:41:06+00:00",
    "secteur": "finance"
+  },
+  {
+   "titre": "JOJ Dakar 2026, Cuba s’adjuge l’or du tournoi de Baseball5",
+   "source": "SenePlus",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlpSYmxMLWJtVEVNUjB5UDVRX0pZVFlGQkxodi1Ma09kMVlXYmhHN3B0UEdfbDF6TXBLenpfb0UwNkNqMHBsU21yOFVUR3J1QjYyakhFcndpMVNuSUFiMWRoQVVZQ3FwUm0wQWNhaHY2bWcwS1BpM0FYZS1fZlFiWTI1a1A5MXBLOEdkeWtvR3ZvZw?oc=5",
+   "date": "2026-11-03T23:17:14+00:00",
+   "secteur": "energie"
   },
   {
    "titre": "TABLEAU DES MÉDAILLES JOJ DAKAR 2026 : LA CHINE ET LE JAPON DOMINENT, LE SÉNÉGAL EN QUÊTE DE NOUVEAUX PODIUMS",
    "source": "RADIO TELEVISION SENEGALAISE",
    "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSkl2amVwdTJFcWExTF9GMGE2bzVWVHB4WmdDSVlTNkstWFRGODdyR1BMQW1wdEdmU1JjSzczOHR2X3huUTRZRWlzTnIyVnE2bXBfVkRnM0c4OGZ3YkhwZG5hQU91Z1REaTJxLVRvRGtxUURNNGY5WWNiczM1SDNBNm5vcWRFNDNKTXhtZy1MNkI0XzRsNFhtcUs4MXB2bVVkWUhCTTRzX1hSSFNtdjUzcy1jMXlUNjZwbmg5OWg2WnhfSlZMTzI5eGtzVDYyN29EOHh5RVJ5WTk2UFE5LVM5S3hMMHRYUQ?oc=5",
-   "date": "2026-11-03T23:03:45+00:00",
+   "date": "2026-11-03T23:15:03+00:00",
    "secteur": "energie"
   },
   {
@@ -88,31 +165,45 @@
    "secteur": "energie"
   },
   {
-   "titre": "LFR 2026 rejetée : Abdourahmane Sarr réclame une vérité budgétaire et une trajectoire crédible",
-   "source": "Leral.net",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVENMNzYxbG5oU0xGRHFiSlRubjlKYVgwc2ZTeWxXem8zUWpxbE52UWJJVFlzdHZyM2hCNDhxSW94WUJNUXdyVHVwdXFtSnNFZkR4SFFtd2I2SmM2MXZkYnB6dzFjd1VNT3Jvb3BuTmlESTZVeGFxbkNZcXAwWlk4eUxBQXhybFlVOVRYeFRVZ0xxSnZFT3UtdVFLU1U1eXlIWHlfZVdaZW1ieWJmM0dXdkRQSzl0OHhycVJkQTFZYjBFVXphRXc?oc=5",
-   "date": "2026-11-03T21:35:00+00:00",
-   "secteur": "invest"
+   "titre": "FirstRand, KCB, Attijariwafa… Qui sont les véritables champions du financement de l’économie africaine ?",
+   "source": "Jeune Afrique",
+   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWFlsYlhTdzNlTWxtWEpKMVcyYW04dWJmamd5N2pfZjlGamdRQkFTVlRYbVk2N2VzaTRHZWdhMGJnVGRXQVhBd19QWlVYVnV6QUdBSUtvN0JoMWVmV0xPOHd0ekNSQWtvYVp1Z1JtUFFLcksydGI2OWRJQlpQWG80d3h6dGJBS3BRbW9BcVAybE9LTG53My0tZUZTZFFiYWZTdndqRF9TTEF6WXlIX1BESzVUd0JLbTc0TGdsQ3NqM0ptbUNOR1JBd1RESzNVTHNKam5pNV9hLVduTnpkV0RYVkV5RTh3d0V1M1ZMaS13?oc=5",
+   "date": "2026-11-03T21:46:06+00:00",
+   "secteur": "politique"
   },
   {
    "titre": "Sénégal : le blocage budgétaire fait trembler les marchés financiers (Par Cheikh Mbacké SÈNE)",
    "source": "Xibaaru",
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFRLeWI2MUZmNk9GVklldndLSDVWVG5LVWNncFlMN0h2RDRIMnVIa0YtemhVYXgzU2ZoaWZCc3hLemoyNFBUWDlFVTVpNmUySnNkQ1otNUZYVUpSajRnTTF4UW5YRXBMRl9WSEhRTEpBT1dNUWlvd0U2UmhHSE9PdXBidWl2TVlWTmVLZy1UczVCcmZrQjlPTTBEWFlnZFYxMTFkYWxrRmREdGppd2ZDelF6OA?oc=5",
    "date": "2026-11-03T21:28:26+00:00",
-   "secteur": "invest"
+   "secteur": "finance"
   },
   {
    "titre": "VIDÉO. Sénégal: rejet d'un budget jugé crucial pour une aide du FMI",
    "source": "tv5monde",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTi1lUWZzZk9MMnBoZzFuRFpmLVlyYkRNQU9nYjRYQTJkS3lfTmJuaUpQUWk0VmJocWNocXJaREdlMmU2ckpvYy1WZVp3ZTNnQy1tNXVlMFVscUlJRkYxRjA2SXZkTk5Jbk42ZDdaT1E5Ri00QW02aERtSF9qS0IxOHhKenpBWEx3MERlT3hhaDhKSm9rU3Z3N3lZbHpSVy1NV2tITHNxUUVoNDV1eks0VV9qdkxDa1Np?oc=5",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbENDNlJMd3F6NElUSklDSWdHZXZCQjBvZkRMQ2g2QzBxYWZpSXlqMkZuM3BRc2J1OTZ5NTZVREI2N1RwVXVNRHVVaWJfZHViUGU4ZFNQaGZFUF8zbHZMVDE2SEptek13MXJzeGViM3NUQ05WNFctcGtrZDBBcVZpNU9FRE9XemxwUDd1UTNTZ3ZvWnpXZkZvdkhVMEdvZjhSYU5mZDBMekR4TUlsYmdqbWo5NA?oc=5",
    "date": "2026-11-03T21:18:00+00:00",
    "secteur": "finance"
   },
   {
-   "titre": "Loi de finances rectificative rejetée : vers une dissolution ?",
-   "source": "Afrique sur 7",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaktKUVVva0o4cl9LUV9xNm5faUR5S0dFZXE1REN5Q0FuanpMS25mVEl4a1FaSkVQZnVzN0VvbWNVVlcyV1Z1UWdLUDF3NkJnSkdEb2xlN3kzUktMcHpkcXdaRXI1VTdRUEhUaVVUTTJrLVI3b05wN1BYZ2xoSTZrM0kzcVZidFlfOHYzRTdB?oc=5",
-   "date": "2026-11-03T20:15:34+00:00",
+   "titre": "[TRIBUNE] LETTRE OUVERTE AU PRÉSIDENT DE LA RÉPUBLIQUE DU SÉNÉGAL : renforcement de la discipline budgétaire, de la transparence et la confiance publique, sur le base de cinq (5) réformes emblématiques",
+   "source": "nations-sn.com",
+   "lien": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOLXZnWXRHaGJiaUo2T080c3llUVhwYU1YdUxMcFEydmNadVhDR3Jlc3FTVzFGdlNGZ1MybTdmMkF0cnVLdmhKZ0I0X085NGpweHN3cmQ2emlrd1hyejhXYjVoRzk3Nk5vbTFBM0RzaFhlaGJaNnV5SzhjLXc2N0I4QVh2NkhpTnBIbXlVVlotTlRmaGFCbFZCREtXNTJoalNFZGw5ODAxSkliRzdfaFJxdVZrcUwzT0EyNFRtME5GQWtYRjRpekpIVDYybThBVU95aHM3VF9RbEtpZlptQXpTclNJR2RBYmpCeGR5YU0xWVFoVUpGVlRuSEpvVXAwVXdLbmZhdEEtd09mRkZTN0V0U1l1cG9qd1VRX2Ixc3BMSDVmVUFLcUJhYTViS01tTmJ0WVduV2RYYkFVZVRKc0EyWlh0N092TEFzYkhj?oc=5",
+   "date": "2026-11-03T21:04:09+00:00",
+   "secteur": "finance"
+  },
+  {
+   "titre": "Recrutement à l’IFC du Groupe de la Banque mondiale – 03 novembre 2026",
+   "source": "YOP L-FRII",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGVGcVgyX0Nzc1dHb3Z4Z2pDVzFacGlLZ2tPYUQ2NkNWR0hCbWkwMzlUejR0M2ptQ0JKTlRsV2ZLajVWZU1FZEpsU0MzR2NVQ0lpOEJlUDA2SjVXY0t5SWF4TFRYTkNSaFllN1MxRmFxeGxLb0hINFhJdHplc0NkRFE4MUFEMlE5eEs0SzA4TTZZYnJRNGc?oc=5",
+   "date": "2026-11-03T20:40:09+00:00",
+   "secteur": "invest"
+  },
+  {
+   "titre": "Sénégal : le retour de Sadio Mané annoncé",
+   "source": "Foot-Africa.com",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY3Z6bGVSb1FKM28tUExmcy0wUWpOd2xGYkR5cE8tTDZuZW9BalNmMmJnLVVFVGotaEpjaG1qZ05LcnUwbU1KS05zcmJZbnhLbkFXX1hfYXl1QnhwZWNlNndWUUVNOV9iSURxcmpiU0ZGbXJNdVZCdU5VbF9YQS1CdjRPTXI1U1czLWlB?oc=5",
+   "date": "2026-11-03T20:34:28+00:00",
    "secteur": "energie"
   },
   {
@@ -128,6 +219,13 @@
    "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUdLWFZOZDU2TmRNVUdON2JsbnpuOFhnNkxmYlliWl9YODVySUl2NTNOWU95VGhkZWxuaVBRQzJOUWdCR2k3bHZtUDE2UWN1MWF2T0dHakZNYTI3ZjlxVElCR091blo3S0lRYVlTSXJLQ3I0RzdsMngwRTBwSFFqeUtubUR0YnRIaXdMM20zb2RKZTN1RlFucEhoZkpxNEJZNTlUSzZlQmM2Q2lKUDFrMUluWTRmZTN2YmcxLVlzYw?oc=5",
    "date": "2026-11-03T19:19:27+00:00",
    "secteur": "energie"
+  },
+  {
+   "titre": "SenTermino : Quand la science parle en wolof, sérère et pulaar",
+   "source": "Seneweb",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWFsa2NzMGU2eHlsa0doeFRyMjJhNXo5RHFudXVOX3ZaQkxmODZZVTRheTdDZWxMTEltT2tXblFsSVA2elhtZmhGMTNKZW9lZUNPYkJrcXJhOUhzMDZ5QkFJQkluRnc2ZWlCZnFzcHR4X0R6WVp6eUtpdTBpYllZOGdyTm9IVGZNdjhKTGhtUmMxOTBLbE1XSUg4SDdmUnNhdGV3LXg5WXhabVpPTHVudXU0ci1RcTA?oc=5",
+   "date": "2026-11-03T19:09:58+00:00",
+   "secteur": "finance"
   },
   {
    "titre": "Tensions à Lagouira : Des pêcheurs sénégalais et mauritaniens expulsés par la Marine marocaine",
@@ -174,9 +272,16 @@
   {
    "titre": "Sénégal : l'Assemblée nationale rejette un budget révisé crucial présenté par le gouvernement",
    "source": "TRT Afrika",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0tIZEMtSW1rbDFIWnBDemNSRVBUZWZDcGlGeXpyLUZ0cUt6d0Jwa3B1VTNDVlNwMHphLXRuMWJweVZWQm5TandjX0wzOWxkOVhzNmxCUmhBNUZSdW9fb283c0JkNXcyUklZX05TME1qNmdzdWlrZENSRWh4N2FNTjRmSW0zWllLSEhhY2lIS3FSNWhVWUJCY3hndHJ4Q3FFYU1MZFF5LWRIYWc5UjBGeVYtSmNEY2x1NHRFNG1QN0JyLVRCS0dzM0ZOdXRVR1V1ejFYc1ZJTnZKV2c?oc=5",
-   "date": "2026-11-03T17:57:45+00:00",
-   "secteur": "energie"
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMjRZSzQzNmZMSjkta2JmdGZ4R2tZcktveHFXOHU4SWh3ZWtPWU41RHZCZWphUkk4MDNud1kxdjlkYWE5bTNZV3N5elp5RExDNHVuOEYySTlOLTg0dVBCU1VIamQ2THJGVWhIazNPRHBmRW4yOTN1OU1FX3BQZ0xHdmx2dktmMEI3WnEyb1RnN0EtNFNoRXAwUXotVFdJUUI4bVRpTEFHRThUbXNfbGRuQmowZmVzMHc1d2owN1M2bi12Y2ZTOTRfWnRDQ29WOG1BYlBBUHpn?oc=5",
+   "date": "2026-11-03T17:57:20+00:00",
+   "secteur": "finance"
+  },
+  {
+   "titre": "Cheikh Ahmed Tidiane Mbaye appelle Macky à préparer…un éventuel retour en 2029",
+   "source": "Xibaaru",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWdsZFJvN3lqVU1rNHoyODVBcDhqRUlEdVFTNXBBRTFYdHJ3eF93Nk82Umk5dkdwYXFFeVFmbzlVUFJrVWhsWTNrajh1NHdUa2lpaHlqYmFCWUhmMzNTNEhyaUtYU3B2bXFGOVVBbVNoLTFpaGd2R1docmR5bkUwMmpPRTZDYzhvUmJhR2o2eGhrZXY4UXhsVm9DV2RWd3hpalhGMg?oc=5",
+   "date": "2026-11-03T17:43:55+00:00",
+   "secteur": "infra"
   },
   {
    "titre": "Sénégal : le rejet de la loi de finances rectificative par l’Assemblée ravive le spectre d’une dissolution",
@@ -193,18 +298,11 @@
    "secteur": "finance"
   },
   {
-   "titre": "La RDC quitte la liste grise du GAFI, Kinshasa rassure les investisseurs",
-   "source": "Africtelegraph",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzlLTjhDeUllRmR4ZzdmNEF2TDloWkhWaXpTYVBEd3lfMnVZa1diMDRmck9LS1hHMFBTdjdrby13WkNqbWNzVGkyQ19TUFZFN3FaYTFzT0pSM1hLSE0xYzNDdjVMalV5YUFyTXV6bG1qR2UwX1d5TEJYTUhHdC1fdWN2SnFrY25ibkZUUVhlcTQ5M3UwTHItOVdaTEdiYnVKczRVQnF6VQ?oc=5",
-   "date": "2026-11-03T17:05:06+00:00",
-   "secteur": "invest"
-  },
-  {
-   "titre": "[EXPRESS-FOCUS] ENVIRONNEMENT/CLIMAT : une réduction de 48,5% de ses émissions de GES visée par le Sénégal d’ici à 2035",
-   "source": "nations-sn.com",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMUt1OC05clZ4Y0tnZWtWTGxxZUVpZmFyTVU4NnpCLXZ3cmNlNTdzM0dLTFhNSmIwZmJCYnAwdVd2akxkTkVSSHVLajVNZFFRSURLYW81R0tEajZTczVLQ2QxRnc3MU5NX0t4cWU0TVpjZENtYm4yN1ZhNVBiRlJmZE1lQ2lrUXpIQl9TYVByNm1OVExSbmt5V2cwdHhpbXRKNUN2bGFKa0l2SXg0bFNWNjd0aUZOZkIyNF9SLW8zWWlnQXJISk5IWm5pT0lsRlAxQjBhZUxKZlE3Q1FtelFwZA?oc=5",
-   "date": "2026-11-03T16:55:57+00:00",
-   "secteur": "energie"
+   "titre": "Fonds spéciaux : pourquoi les pays ont des caisses noires ?",
+   "source": "DW.com",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHUtZXljR2FUZmFYX1hfUHJMYnJPT2xOQlZrT2tCUHZaQ2c3ZERZbW43clNqMFpaU2wySUpFT3NPQWlvUXdISHVvLW1iX2NQZXctZTVubHNWZEt4ckM2VDJXNGRuWDNSSnhROFE0T05NdkZlVXlVdTN1YWE2Z3B0M20zWjZXQ2l3VV9NOTBuWmttR1k5SmtlYUtCeUczdEc2bmhIZnU3SzJKY2tKTnRoOFV2VFg5OVRqVDFNSXFB?oc=5",
+   "date": "2026-11-03T16:58:30+00:00",
+   "secteur": "finance"
   },
   {
    "titre": "Sénégal : l’Assemblée nationale rejette le projet de budget rectificatif 2026",
@@ -242,6 +340,13 @@
    "secteur": "politique"
   },
   {
+   "titre": "Au Sénégal, rejet d'un budget rectificatif jugé crucial pour une aide du FMI",
+   "source": "Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNTY0U29WSXlNV2tfQzlhUWZKM0RJN1doVExGck15RnE2V1ZnaVRTNG1IcTA4Y1BSVG5fTkI1M3U0UzRQRmloakVCbVhxcUJFanJKNFRISnp1QWJUZmdUa0RQVHNzWnFNcFNzQ2NoQVcwSmhlenh3My1wTXk3eWpPTnc5bVQtWGQtSk1fclRxQWd0NllQSmVadGkzTVRmcHcxaXpac3d3MzBVNXpfbWRtRlRSdVVidE5saG9VZUlKaWtnZElWbTltelNXdmtEeDl3UDRGbDV2aUdMUXRrX1lWWjBaZ1UzMU9sQkNwa2dzTmRPYm41aXdPQzlJRjl6UzUw0gGAAkFVX3lxTE01NjRTb1ZJeU1Xa19DOWFRZkozREk3V2hUTEZyTXlGcTZXVmdpVFM0bUhxMDhjUFJUbl9OQjUzdTRTNFBGaWhqRUJtWHFxQkVqcko0VEhKenVBYlRmZ1RrRFBUc3NacU1wU3NDY2hBVzBKaGV6eHczLXBNeTd5ak9OdzltVC1YZC1KTV9yVHFBZ3Q2WVBKZVp0aTNNVGZwdzFpelpzd3czMFU1el9tZG1GVFJ1VWJ0Tmxob1VlSUppa2dkSVZtOW16U1d2a0R4OXdQNEZsNXZpR0xRdGtfWVZaMFpnVTMxT2xCQ3BrZ3NOZE9ibjVpd09DOUlGOXpTNTA?oc=5",
+   "date": "2026-11-03T16:35:05+00:00",
+   "secteur": "finance"
+  },
+  {
    "titre": "Alibaba fait de Dakar 2026 un laboratoire du cloud souverain",
    "source": "Sport Stratégies",
    "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNE5IR3huaE1YZkktdE1CcmFIQnJSaW9GelFCdjh2Ymlidm5DUWJuVnFHNEFCckZvdC1BdVY2eFE3VWhNOFVScWJicnpHYnQyT09iMlZNci16RFNQWlJUc09EcTR4WkFDUmtNbUl0ai1rNjhoOHk4MUdNUXM2dDVWa3IyRDhCbl9mQU1vMVlNMlZhbkZ6Wl9UQQ?oc=5",
@@ -249,18 +354,25 @@
    "secteur": "tech"
   },
   {
+   "titre": "JOJ Dakar 2026 : Le TER annonce la gratuité du transport pour la cérémonie d’ouverture",
+   "source": "Xibaaru",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzVub3pNVmNDcEZoTmxFQmFUM2JnODhOVGtsdmlsWldTN19wcHhkeW5IQTI3elRsZTJUZi1SRjRNMnU0QzR4U25YYnhUellpLXQ1N3Y2TVZINEx2SUtlUTRhZGNaS045ODZDdXBnLVVtNEx3WV9kOWFfcUZDeG9vMVU4M2hnaTVwOHkwRHBNYnY1dGw0djJMSl9maFZpSkw5NkhpQkpmckdNV1k?oc=5",
+   "date": "2026-11-03T16:31:47+00:00",
+   "secteur": "infra"
+  },
+  {
    "titre": "Sénégal : le Parlement défie le Président en enterrant la \"Loi de finances du FMI\", vers la paralysie du pays?",
    "source": "Tunisie Numerique",
    "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1JWVkJZaGxLaUxtcE92OEd1el84SjU2alQtOUVWSnRIaWtwYUZDYW5Jcm1CcVQ3d1plVHNVOWRTLW56WkhiRVlaYll6REpOb1hxTXc4RXAtR1JQWGFzTkZsSkFZYkpLLWxaY0dzNUN0ZU1Uc0pZNUpTMzcxNFJncHRIQ3YzQWpodTJhMnN1RlpkLXczeER4SC03OGNzdVVmQkN3cDBMUEVvRHltbE1HeUlrM0hGSG9mWWJMV0RJQzVqdzF2Z1JxRmdwXzU4YVlxdjVRSg?oc=5",
    "date": "2026-11-03T16:30:00+00:00",
-   "secteur": "energie"
+   "secteur": "finance"
   },
   {
    "titre": "Sénégal : l’Assemblée nationale rejette le budget rectificatif 2026",
    "source": "Actu Cameroun",
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1J4QklnYmluQS1rQTNuVXpmVm9nb1k4WE5uRzdVMDFncmdEVkMzRVgxWlJ2eWE5UzhMV1RnZ2ZnVkI5N1BQWUJPSlZ2OElQbW1UVU5GcWU1cHVzV3R4MWp0Mm5tZDVPeC1pM3dBcFpXU1FoejhoeXVTNEFQN1drMWZpU3dTWHJKTFpQZDg3cEJHNjRacDV4anNKdFdMNUpCU1BF?oc=5",
    "date": "2026-11-03T16:07:55+00:00",
-   "secteur": "politique"
+   "secteur": "finance"
   },
   {
    "titre": "BCEAO : l’usage des services financiers atteint 76,1 %, porté par la monnaie électronique",
@@ -291,18 +403,11 @@
    "secteur": "agri"
   },
   {
-   "titre": "Burkina Faso | Banques : la traque aux créances toxiques est lancée",
-   "source": "Afrimag",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZ1B4UWVRc3l0akJFMFJzWWtpM2dTN2ZfOHJ4WmtEQlF0UlRRX1pxM05jWHFwTl91dkk1X0twd3JRVGo2czhSdTBpbzdianpjXzI3bmZqbXBXVVROd2hPN1daTDBkN19jenVQX2t3alpfdXE2Y2x6TjRIWkFmZDg?oc=5",
-   "date": "2026-11-03T15:52:49+00:00",
-   "secteur": "agri"
-  },
-  {
-   "titre": "Au Sénégal, rejet d'un budget rectificatif jugé crucial pour une aide du FMI",
-   "source": "tv5monde",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQzMzbVRaUVRkVUlyakRub1E1MHNHTEpXb1l2NUxJV2h0NG5TNEtBeHNVdTZBTjk1bzY4MW5DaGl2dU5TVlNaNlR4cHNfQ09PZkxhclFxaG5GTTZqZGZMLTVWLV84Y2h6elhCVkJpbWd6cWdqNmJZTUZIQWNpb1dpOEZNUld3bHUzUnJvRWthakJteEFTMzRKWmRTMTVmMUh5U2hIakt0X2RGWW9XRHpodXJ4TUZxMjhSal91QWtoTXVZNTJwcjBn?oc=5",
-   "date": "2026-11-03T15:35:00+00:00",
-   "secteur": "energie"
+   "titre": "LFR 2026 : l’Assemblée nationale rejette le projet de loi après des réserves sur la transparence budgétaire",
+   "source": "SenBaat.com",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0xPUzQ3cm9aZk5pMmQ2NGlBOWNyM1MtV0lfSjhJbGhNS3NmYjVQQTl2SzlSYk05MHFfcmVFS3JmQlpiX3lCdjk3WWRVQlV1SGVmTkVJNHdJWkYwZ2Etb1BBcF9yT2E2Mk1Wa3VsZWs4d0g3am9XXzZ6YTE2NHdxQ0JFeW9SYnlFc0J6N1RIWXFYbGxOeE15RHlNNWpOeE5nNTVWY3NjRjBKeHVKNTJpNG4xVkRnaDZCa3lRM1NCaWdHZDVvc3pTZlN3RHduQQ?oc=5",
+   "date": "2026-11-03T15:34:00+00:00",
+   "secteur": "infra"
   },
   {
    "titre": "MSGBC Oil, Gas & Power 2026 : Dakar accueille le rendez-vous régional du pétrole, du gaz et de l’énergie",
@@ -319,11 +424,32 @@
    "secteur": "politique"
   },
   {
+   "titre": "Transferts bancaires vers mobile money : La réforme embrouille et passe mal chez les usagers",
+   "source": "Linfodrome",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRFVLTnVtZXM0NENPQjlrTy1WTEJlLVhmaWgxR0dVVDA4bFp0c0piSEpRYmNLelM1OWgwb1Vvbmk2VS1fazlxb2F1bFdwSjI2Y042ZkVtanZWUEU1aV9wU28wTm9NUm9BMjh0VFNEZUFSSFVpRktNUk52WmxrdVVmeHotcXRnSEhJMzBoV2pQejA1X19fWFV2LTI1NExHdGxQbVVTeUc4aFVHWmNVV3Mzd2JzaWxTWHdoS251OGFsNHVRMS1CQklhemVKSGZRZw?oc=5",
+   "date": "2026-11-03T15:05:48+00:00",
+   "secteur": "finance"
+  },
+  {
    "titre": "Démantèlement d’un réseau de faux visas pour l’Europe au Sénégal : une femme déférée devant le parquet",
    "source": "https://horticulture-abadie-pyrenees.com/",
    "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3U1luOGxUejV6bzRqeTg0aGtSRmNTX0tXZExLOHpMMEJidE96cm5YNUl0VF85eHcyUUFZdVFWSGtHRTFHNXQxSnVfQUFTYnJneFJXV0phY1lzMWhpOGNnMXJBeDBrV24tWGhN?oc=5",
    "date": "2026-11-03T14:57:28+00:00",
    "secteur": "agri"
+  },
+  {
+   "titre": "AKILEE, PRIMES IMPAYÉES ET CAR PLAN Le SUTELEC hausse le ton",
+   "source": "EnquetePlus.com",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdzFja2NvaE5yTFVwVkhrc0dFVEtob1NnODNqWG9vaGgxVzY0cnp4SU1EWlBUVWgxWk9mV0lrd28yYllGY1BhaGVONk9RNGd1cDl3ZzlibFFNZGJuRHM3V1g1aXZQYUxRU2tyRDFRcmxGRlpWdElJcFJSUlRFMVdKZEdlOXRycXBUMmg2NmJsdWZkTnBQZEllRm1YR3hKNGQzVFE?oc=5",
+   "date": "2026-11-03T14:44:00+00:00",
+   "secteur": "energie"
+  },
+  {
+   "titre": "Les Chroniques du Doyen – Macky Sall, le grand batisseur (par Majib Sène)",
+   "source": "Dakarmidi",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHF0VWpKRllFbFJiUVlRa1N4SVdmZTl4Rzg1dG9GSjlRQnhnaThOYm5yaFJ4ei0yNWgtaTlnb19tZW9jeEFETzk0bkFvN2ZSVVZfa3Z0NV93VXJzYXlkczlmSHBNT0tkNzhkZmt5QmNNMmhfSktBdl80RTdTdVB1TUd2WURPYi1abWN0OWo1c2V6ZFdsWWNhai1NZw?oc=5",
+   "date": "2026-11-03T14:39:59+00:00",
+   "secteur": "energie"
   },
   {
    "titre": "Sénégal : rejet de la loi de finances rectificative 2026 par l’Assemblée nationale",
@@ -342,7 +468,7 @@
   {
    "titre": "Sénégal: l'Assemblée rejette le projet de budget rectificatif 2026 en pleine renégociation avec le FMI pour résorber la dette du pays",
    "source": "tv5monde",
-   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSjJaclBrLVdjMHVvakV2Smc2X3g4dnhTbG15U3prV0JCQlpWMzFXbXg0ZGgtVDJRREt3SUxyYVdzVGZlbjJjcjU3NDZaY3dfamJmMTZaR3hnSmJOckFsb3l0VmVVS2JXYkVUQW10ZVRIRjhSRXhGczRkSEVEZ3p6RzVIcFRpQzgzZkhmNXhIV29oei1jVDhEVkZhMUxZbGRyaFA0c2ZWenFITlBRZ0JBSmZ0SnV1LUxQMjlhQ2JjZHFMeTkzSElvazVYYUdHRlF4VlJxR0NGb3BFeHEwQUJkWWN5Wk4wYWxXRHVLQ3NQTE03dWRFUFZRZW90cVpnTGNhLVlod1JPZ2o1Q0xp?oc=5",
+   "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS21vdDJ3V1BDLS1kekQ0c2NyYnNhY3h5cmJzRnp2YUpQOUxSNmhZRW9sYmZFTkJyR1AtVks5U0NseDVkV0l3NmNBdEtHd2dpWVhyR2VVQjNXazZ6dkJzTTMwckVENm5pLUNDUlA4cy1tRjZUTlFnN1o2SzJYZVZaY19YQ3ozVVVsZzNWMnJNYl9odE1uMzhDYXFzejN3bTBNMjFhUmdJT3ZtekIzUUUwbkJPS01ScTZZNDQ1UGpmLVlGeXpsY2FlVnUzQktrMFFOdG44b0lMWWt4N2F2bHZ5enhybDBSdG1tUnFwc0lPcnRRck5DRFpoeC1FRzNlNXFaam9EaDdIQ3Y3UXRwdEc5M3F3?oc=5",
    "date": "2026-11-03T14:06:00+00:00",
    "secteur": "energie"
   },
@@ -359,13 +485,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbU8ya3QxRTVYYnFGTUptcGJwdFg3YnpjQ1R5WE5xbGV3VTlaWHRYdWdEUlRHaXhqcmFZVnlPblFYUjN5cnFIRE1lRUZUUHF3bjVTczFoV1BjUVNYRmw3dUtPWHFURGRoRS1hd29GRmI4cExkODRxZ1BqS21GY09fTGpKaVktMUZNeERTNVcteWF3Z01CWW1KM3NnRWEzUEpSTkhreXVxb2ZWcGNiSkEyV2ZqQXdZeGFUZkhPTg?oc=5",
    "date": "2026-11-03T13:49:42+00:00",
    "secteur": "politique"
-  },
-  {
-   "titre": "AKILEE, PRIMES IMPAYÉES ET CAR PLAN Le SUTELEC hausse le ton",
-   "source": "Enqueteplus",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUHdMbG1YdzMycndvaWdCSHJkeDRlaW1EX1hZbWoySGk3WlpWdkZKalpsaW14M05yX1V1cWY4NFJZNGRNTnI1cTZOdFFWZWstSmdNWExvd0dMYklOMlRhWGlrS3Biek1RenpiRmNvSXgyNG0tekJHN3dtd205TTZNUi1YTHdzbFZoVHhQR0JGWk50dEw4dW1wc2FPcEQ?oc=5",
-   "date": "2026-11-03T13:44:00+00:00",
-   "secteur": "energie"
   },
   {
    "titre": "MSGBC 2026 : les acteurs de l’énergie réunis à Dakar en décembre",
@@ -487,25 +606,11 @@
    "secteur": "politique"
   },
   {
-   "titre": "Cinq destinations ensoleillées à découvrir cet hiver avec Transavia",
-   "source": "horticulture-abadie-pyrenees.com",
-   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55b2hEaDNESzl1aFJROFBMSWVhMmdiMDdfckdWdG1aWnk0WEJHcVJvaEVubkV6b2dxVlUtRGZQZG91bUF0Zl9XOFpxN0cxa1VQVUhMdlg3TlRRX2dSX19peGhnSWdkODBsNFNQbg?oc=5",
-   "date": "2026-11-03T12:32:03+00:00",
-   "secteur": "agri"
-  },
-  {
    "titre": "Au Sénégal, un budget crucial rejeté par l'Assemblée nationale",
    "source": "France 24",
    "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX1l1VjdpRm01NFF4RUFmb3BIUU1sLUF2NjM0akEzR3FBMDNIeUtMai10bm5ESlJ2WUx2SFlySTNORFJrYXhESnl1ZV9DaDN2UEdVZGVIM2RfQWNCczhXRlUyNHRoWWl1RGhuMy03S3VMT3ZkdXA4UlVLVkJZaTRnWDJvQ3cxdlZFZWMxdS1nQWtpdTdzQUlJUjRRQWp3b2xpbTVKZmJjZXpFVVN1SEFFYTJKM2lmYVd2SWNvVk02bGJ2Q1VKeEh3SHZRUllkcVVUNks4ZGhGTVREN0NJNVlKd2lQTkloM3Jxb1E?oc=5",
    "date": "2026-11-03T12:31:40+00:00",
-   "secteur": "energie"
-  },
-  {
-   "titre": "Le Sénégal veut diversifier son tourisme au-delà des stations balnéaires",
-   "source": "horticulture-abadie-pyrenees.com",
-   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MWVZsX3czMGoxSUJkT2lLdzJpY294Qi1YTm9Ib09Qb2F2MkFwcWVKN0RQejd5UmN1TEdqN1hNWk45amVhZXpjcGQ5RkNWY1ROUjNOMUwzb25ISDQ0QjhtVFRGdUtFZHRhVm1FUTMtUQ?oc=5",
-   "date": "2026-11-03T12:28:40+00:00",
-   "secteur": "agri"
+   "secteur": "finance"
   },
   {
    "titre": "Sénégal: l'Assemblée nationale rejette le projet de loi de finances présenté par le gouvernement",
@@ -520,6 +625,13 @@
    "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDIzTy1IWUNWOGxYU3JTVm9hbGxQYTg2bzVpRi1vdEYtMGp0LVNhQ2ZsNjU1NmdmVW5ic3NGYVBha2FfdEtSLW9feXJUOWRJdm5KRmR4QVE3ZW50MUkwWlpjTXF0QXY3ZWY2eHBWZDhvLVlpeGZzRkhmS0M3NXNzekQzd0Y?oc=5",
    "date": "2026-11-03T12:22:47+00:00",
    "secteur": "politique"
+  },
+  {
+   "titre": "Retraite à 1 500 € par mois : la Tunisie, le Maroc et le Sénégal, des alternatives africaines à l’Espagne et au Portugal",
+   "source": "horticulture-abadie-pyrenees.com",
+   "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnbDhaMERIWDFzVXQ3Y0VwYjlGZUR1SWgtM2dpVmhmOHpSTVlSajNQaFFjQWJSLWlvZThTNVY1aC1JTnFNSVFaSFpMWFVUWjNIZFVJbmRuNEJ6aENDSWNIcU44UlU2bkhaZGc?oc=5",
+   "date": "2026-11-03T12:22:00+00:00",
+   "secteur": "agri"
   },
   {
    "titre": "Sénégal : la majorité parlementaire, sans débat, rejette le projet de Loi de finances rectificatives 2026",
@@ -599,6 +711,20 @@
    "secteur": "infra"
   },
   {
+   "titre": "Régularisation des licences de pêche : Les justifications du Pr Fatou Diouf face aux critiques des députés sur les vices de forme",
+   "source": "Seneweb",
+   "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOXdELWRCb0hHSzVHd19ENWhfOE5JY1BuWGVuYlEzZEF2c0xKWDdwTm50YktYZmgxS1RBWWtCV3NMSlkyZnZPMzNYdVM1SnRWMnFSd2QzOG84c2RsTktxdGs1SXAtQWpVX0JVd2RFVHI0cmhDZW1QbENjQkFOZE92WlRiZDF3dG5OTjN3TlBmUEZZbGdKbW5TUlhpUmZzTWRod0VfOHZDNWJqLUtERExsclFoUDR6YlJiWUh5UHdSUFdjbGthZ1lVaUNTOUNOZFAxTjFKUWtEYzhISEhEY1RvSXREeUlCNktHbWxpVUh0VFFSRHEyNS01dmhSOWJIaTg4SWxYUDVXUUtvUzB6cXZ3QWhFRjM?oc=5",
+   "date": "2026-11-03T09:25:16+00:00",
+   "secteur": "infra"
+  },
+  {
+   "titre": "Tunisie-Sénégal : Partenariat de coopération commerciale",
+   "source": "African Manager",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTZmNXNwVnF1a2Q1a0xtS0tocl9Nb1FNT0FmUjRSMF8xS0ZiNFpvU2NEYkRQTVM0RWdBNE5VejVpdUFXMms5OE5DeFNCZnZaSGpuUjN1NjR2YUtKNUcxNHZyMlBoZEpFY1JCZjBqc1FEMl9LQVVVdVRyVjE2SXREUTV2clBaMFdNc2lHM0dBRU1fYVplbHYwVGtkQWt4SFg2ay01WHptcjRhem1sOWNDMnpKbWVWdXlsV2dBRVpPSlZzQQ?oc=5",
+   "date": "2026-11-03T09:18:11+00:00",
+   "secteur": "agri"
+  },
+  {
    "titre": "Sénégal: L'avenir de la loi de finances rectificative en débat au Parlement",
    "source": "allAfrica.fr",
    "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqU0dOd0hJQjV5bnNoZlJYYXVRMHQzYmtfeDROVkhYUWJrUEtSbmV0UGVpTVBISEZmU29WVG9MR3lLV19QX005dlh1MzFzb19xcW1zdDBucVplZHBKMVdv?oc=5",
@@ -611,13 +737,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0p5dUxtaHJJSHdReUdoRjh2SDd5Ty1ZWDRDUmlQd0dGaEtaYXYxMDFyQWdYZENKR0dTakxMOFFmRVp1TW9YVVZrN3JRYkJXYnlMYjJGVzBXVm5fdzZldXloelZmUURxRHJKd0VXVHpDT25hQzBWaGN0emtDTVlGOFF4YmNYVm1TTnNRdWpYT3RlNE56cThxekFlWEQ5ODd5N2M1WVdvd2NRR1ZfcWZZR2pXM3FHYjFlZVdVaFJn?oc=5",
    "date": "2026-11-03T08:51:46+00:00",
    "secteur": "finance"
-  },
-  {
-   "titre": "JOJ Dakar 2026 : Néné Sira Diallo, une jeune basketteuse qui rêve d'or et veut inspirer les filles du Sénégal",
-   "source": "Olympics",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR3dNdUVGQnpfdm9KdDY2ZEI1U0UwckZmQ1ZYV3JXNXdOTDdSQ2p1T2VGN0tha3dzQllqOEtMUDVGcFJ5QXBHS0JVaFNwMUM4U0otM0cxM2pvU3hWcFU3VlZ1QzdnSm52VmltSnN6MlYwWkZTbEY4aUM4bW5vRkNNbFRlbWx2VTVSMmgteE1FQkgxeTJESXVIeXBTVUF3Y3E5dWk5SHdBbHFGVUxnc2dMVGZwRHJwSndFeUV0STlNNkRyQU5iRUl6UEo1RVVYRTg?oc=5",
-   "date": "2026-11-03T08:48:51+00:00",
-   "secteur": "energie"
   },
   {
    "titre": "Afrique: JOJ Dakar 2026 - Les athlètes récoltent 57 médailles en deux journées",
@@ -676,13 +795,6 @@
    "secteur": "energie"
   },
   {
-   "titre": "À l’UCAD, les étudiants exposent leurs innovations au Dakar Night Market des JOJ",
-   "source": "Senego.com",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlZrNFRRNzg5dkdjallqY0FiVUw5bmdTcDFHSzdsaFBlVEdCWVVfbjk4VVhtX3czcDFfc0NXb0p4ekpIclNyMEN2aXRLWlBMTlNNdHNDcHFXcnBxamFrQU1rNnItSjhIQnNrSjNiM01STGx0OUNjU1BpNXp0UktheTdzbnlUZWh5S0FPY3JZblpzZ20wOC1zNHJUZDhsNml4LTB1UHE0ZmFaQlgxTkxN?oc=5",
-   "date": "2026-11-03T07:10:19+00:00",
-   "secteur": "agri"
-  },
-  {
    "titre": "KALIMO CONSULTING GROUP : Construire au Sénégal et imaginer l’Afrique de demain",
    "source": "Le Figaro",
    "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVJvZ0ducHpWQTdBZzlUdnJIdWoyYXRVc3hkV2hiaEZjdElzUlBzbmlYc255UHVoSFYzd1p1SGZ5RmVPX0I0elBoSzh5Sk96bGhhSllLRDRCcWQ4dmhXS3YtcHVNdlpXVVU4dXRYWF9KZXNtOWhMOVNmdEhyRTY1czNsblVQMmZJcGR2eVB6Z3dZUml0dzd3ck5EYTVfZTJxenl2akg2UkNWYkZtX2ZLem9KNG1ocVNtLU1z?oc=5",
@@ -694,6 +806,20 @@
    "source": "Dabafinance",
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmF1ZjNaM0VIdTdydWw1OThvb01Dblg5LXRZa19hZjJiVWN4YVh3V3hVeTJnaGxtV2xRQmdRWkZ6bGF5dGJRZ1dBQXpLS09IVlJSRy11TjRjZmZDbGNpVG9WYXRENnR3Um1pdm9BOHZsbmxFcFI1RUw4OVdNa1hzZG9TdC1YaC1TekhWbUI3dUx3ajhzUVE?oc=5",
    "date": "2026-11-03T06:53:00+00:00",
+   "secteur": "finance"
+  },
+  {
+   "titre": "Sénégal : Cheikh Tidiane Sarr élu V-P du FRATEL moins d’un mois après sa nomination la tête de l’ ARTP",
+   "source": "Digital Business Africa",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ydEtpd2haUVJ3dTYyREVTajVoX2ZfajJudHYzdFRSTUkyRkMxN1dxd1NIcDUyc1dtOU5TaE4tdUlkSGhYUndkaVBCZ0NpaFZPTTFqdA?oc=5",
+   "date": "2026-11-03T06:50:43+00:00",
+   "secteur": "tech"
+  },
+  {
+   "titre": "Interopérabilité mobile money : 8 000 FCFA gratuits chaque jour",
+   "source": "Afrique sur 7",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbEt0anhOYmNlODg5S3c0TVVjSm1VOWVmYzh5bXpLSlFQZ1dRMUlqalRDOGxya1YtNEwxSVJpa2lLejFoRnJvNmxNZlc3ZXlPQkZvd3BHUHlYbzYtNTg2VjJxNEcyTHd6YW9ZUlBodlNJSlhNMmxsQTd1OVJEbVU?oc=5",
+   "date": "2026-11-03T06:41:00+00:00",
    "secteur": "finance"
   },
   {
@@ -725,25 +851,11 @@
    "secteur": "invest"
   },
   {
-   "titre": "Guinée-Bissau : 168 candidats à l’émigration interceptés en trois jours",
-   "source": "Ouragan.cd",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm16TjVSSW5KN0h3SGw2d1pnTG5WcFFfakwwZXJkRUkwa3k0OXBlaTRsRGhzdTR3QzdhdWtDQjhPalZGaWNIUVRBT21XcEQ5QUc4ZmhYcUd0dERaX2xEMEU3MldDYmsxSmstd0xvcUl2eXFET21oMUFORm9sb0RvUVkzVUhtR1FzclMwYmdpUDRYZHJsTDA3SlFVUQ?oc=5",
-   "date": "2026-11-03T02:46:00+00:00",
-   "secteur": "agri"
-  },
-  {
    "titre": "Comment Bassirou Diomaye Faye va-t-il gouverner le Sénégal ?",
    "source": "DW.com",
    "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRURGdS1JdnhLc2VpVVpZZFNOX1k2WldxYl9TVUJ2YmRaYmF1TkJpUS1iUkc0U3g4YWNsQjBkUExuVVFTczltUjdkOWhMX0lxUkNKaVJmN0tSRklWS1JJaW9qa1RvdG5Xc3l0dmxMdnJhYzNjMEFhUWlXT0xqVzNITVlMYTBBZmVlRlFZcHR1TkhsbXJo?oc=5",
    "date": "2026-11-03T02:21:06+00:00",
    "secteur": "finance"
-  },
-  {
-   "titre": "\"Sortir le Sénégal de l’impasse\" : les explications détaillées de Moubarack Lo sur son texte",
-   "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkJuams0R2Z0UTM3RE9xS25WZm1OMGE1S3BfajloWDlqbXhKal8wOEE3VzRMRUhXb1FfRUFJbDZpVmRzSjJZMFU0Y2VhXy02LWh2SUFRRXozR2lMSmRIWWkyaVNBNXRQaW9hZ3RRVEpWaWN1bHFWeVJJYWh0aVNNTFpqU01iMHIzTkxWM1NSOHp6aGxfQUR5SXdxWjRNSU4wUF9vVFpFMzhkMmU1akZYUlBCa1pQRzE3SFpDT05KS3JMZER1dm10YVZ2bl9kMy0xd3ZvWGxXU3RGUQ?oc=5",
-   "date": "2026-11-03T00:37:10+00:00",
-   "secteur": "agri"
   },
   {
    "titre": "Sénégal : les incohérences du budget rectificatif 2026 dénoncées par les députés",
@@ -774,13 +886,6 @@
    "secteur": "agri"
   },
   {
-   "titre": "Licences de pêche : Fatou Diouf révèle des anomalies dans les dossiers de plusieurs navires",
-   "source": "Xibaaru",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3dMWXVJVEpRdjFlcDV1OEtudmRvOEdYaC0wUy14R2FESmtIbG9pTEYteTVFNE11Y0FCMUxzNHRpdmdaMEFvbmt1RG9QbDZqQ3NYamN3cmpadGNwckZBZlZiVS1JR0lLTW04TU1IZzNEZVpKakN2eGlNU2RWOTNuMmY0ZUg2U0F3ZWN5ZF9CU1JRNllmc2VyTVFNMlpZRnEtLVpadVZKQzRpNGJzSFhkUXQ0bw?oc=5",
-   "date": "2026-11-02T22:36:42+00:00",
-   "secteur": "agri"
-  },
-  {
    "titre": "Rugby à 7 : argent sud-africain, France en or aux JOJ · SNA",
    "source": "Sport News Africa",
    "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMEJlZnR3Qkk2UTBXN3BJZF9TaDh4Nzhjcy05akNURWctd2dkeHk4X2l6S3c1NE92Rl8wZHR0Um5UUV9iUHNta0hDRVNJV3pQcWJjSVVBaXpxZmJRMXo4ZExkaE1RN0lrck1rME9wNmhla3lZa2VXU0tweUJYak1WWGpVVzdnWTl4OXBKNkduNnBoOTZyTW5FVmhvaEhoNF9tUVh6MFhUbXowb1BYeTRBdHhGcmR5cmVxZk14NFZuaTZycjNJanpNRVYzaW9uVkE?oc=5",
@@ -802,32 +907,18 @@
    "secteur": "energie"
   },
   {
-   "titre": "JOJ Dakar 2026 : Le TER annonce la gratuité du transport pour la cérémonie d’ouverture",
-   "source": "Xibaaru",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzVub3pNVmNDcEZoTmxFQmFUM2JnODhOVGtsdmlsWldTN19wcHhkeW5IQTI3elRsZTJUZi1SRjRNMnU0QzR4U25YYnhUellpLXQ1N3Y2TVZINEx2SUtlUTRhZGNaS045ODZDdXBnLVVtNEx3WV9kOWFfcUZDeG9vMVU4M2hnaTVwOHkwRHBNYnY1dGw0djJMSl9maFZpSkw5NkhpQkpmckdNV1k?oc=5",
-   "date": "2026-11-02T21:32:35+00:00",
-   "secteur": "infra"
-  },
-  {
    "titre": "Vallée du fleuve Sénégal : le PRDC-VFS mise sur les chaînes de valeur agropastorales pour booster l’économie transfrontalière",
    "source": "Seneweb",
    "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlN0bm5xaC1LcUh6aERINUxTRHo5TjVOVG9HcVNMUjgwZGtqVVBtQk9PNWJTazNPOWZkbXF6U2hkTlptVEQ4WE84cDhrS3BUZEZDeUpBTmJWZnliT2c0YlFKVC16QzNRR3pEVjNlZU1NMnBRRXUtVE5WYWlva19rcUlQS2ptZDE0RUtyVUJFcl82V0F1VmVQdm9ydnV6akJpZndzcXB1N1RSWEFWMkdlN0dONDBZX0RaRXhGSDJiNG1HNGdKcXo3S3hsSkc3N3BIS0dGWjBvSlc1VVNOcUVuTTZ0Ql80SUxIODdMV1Q3QTdDeU42aGJjQ0JhRDhIa1lxdkpxN05vekFwT1drdTkw?oc=5",
    "date": "2026-11-02T21:29:58+00:00",
-   "secteur": "agri"
+   "secteur": "finance"
   },
   {
-   "titre": "​Coopération diplomatique : Inbasekar Sundaramurthi nommé ambassadeur de l'Inde au Sénégal",
-   "source": "Pressafrik",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFlvekxuZ21FWHhMRzJlZ3ZPY2NnbEoxeG9qZ1kwZkU4a29RM2U1UkU5bVV3aVNOYXpKNGNNQ0YtU0pRVEFhbmgtamItX0tBTGtlbG1NV004eUN4Z0xjd3kxVDZ1bHNDU2VMRjkxRjV3ZC1RRkxzRVk2NVpXWFVSYTZUVUdTcVcybHdSc2xzRmk1QWc1MzNKcDhtNng3bEpkblJlSzBtX1EyVzc2dDBOYkVTcngzUEpNMm1oTTVDZWtOOTh3NVNoNmdqS0RQNlRGOEE?oc=5",
-   "date": "2026-11-02T21:22:00+00:00",
-   "secteur": "agri"
-  },
-  {
-   "titre": "Gestion des licences de pêche : les révélations de l'ancienne ministre Fatou Diouf",
-   "source": "Leral.net",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaXdMVW1aU1VZU2FlcnpaTE0wMWhCdG5URHRkOWFzWDRRMWFmaDJpRmQtYkZCR1VkOVlxdHRXQmFENXh6SkktOFN3YUhsbDVDX0NHS3pkdnE1aWFxNTl2c19jTHl5R2ZvSnZYQnpqV3hzeHBhY2RQYVJLd084X1BqM0VqaEN5dERWQzFRMXo1ekJlUUJqYWMzZE9GS1ZEUG1fVWFpZ09hQ3BhLWFWMlNHQ243aWJ3UQ?oc=5",
-   "date": "2026-11-02T20:07:00+00:00",
-   "secteur": "agri"
+   "titre": "Ibrahima Thiam à Sonko–Diomaye : «Le Sénégal n'est pas le champ de bataille de vos ambitions",
+   "source": "Xibaaru",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXV3Y0p1bzdQQUhmZVU0RE1CQ3RYaUd5VjVaM0l4eXFfQV9rNjZkRHRQcEJIazlPVnFLaGcwcHRyeTNsOWxJYy14UE9pZlVyNTRXQkFzSG5xU09VdS1MUmhqdlhkbGpIOUJvSlY2R3lGd0QxZ3paX1EyUFpLY3F5QkQ0QkhQYlEwQzB1S28ydzlhUUY4WThLUGpUZGNRTGtKcldraURtYjRnTFhTdlYyUVdB?oc=5",
+   "date": "2026-11-02T21:12:24+00:00",
+   "secteur": "finance"
   },
   {
    "titre": "YouScribe franchit en septembre le cap des 2 millions de lecteurs abonnés",
@@ -848,13 +939,6 @@
    "source": "La Presse de Tunisie",
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHpULWtsRDA0WFQycm5Zd3hXQXZsRjNyQVB0VTQxeTJWUnI4R1NpRUk3dU51NUlyWVlrM2NqWWg1aV9sUFNWeXpRUWpIbzBSVmlDT0xySDdHWng0RnZZalRYRHpkTHN4T3ltRDEyOHF1anFOQndFeXFCc3FWX1BmMDJaSG0wdGRPelM4OUEwT1ZpMnNxWHlLTnBkcVFHSEFLX3o0Qg?oc=5",
    "date": "2026-11-02T19:11:56+00:00",
-   "secteur": "invest"
-  },
-  {
-   "titre": "Signature d’un accord pour stimuler les échanges commerciaux entre la Tunisie et le Sénégal",
-   "source": "Le Temps News",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXEwdnhQdkZxMWM0Wml1LXN6T0FDSVc1MnFnQ0poSjJuVnU1U0FuT2Q4dF90SHFmaUkzSU9IR2F2MVdLaTdJQ2w4dnRWNC0zOUIzeklnMmd1MFNab2Vuc21oVTdNZEJUdGZoVm0xSkN4eVhjSVJvVGpxTy1zTHNYWmFlMU5pQnhRVzFyd2U5dzdWdWd4c2ZyRW1STDBNTzJtYTJuYmRTc1lDVGJtY0lucVFFOV9lc09fYXI1RDAxMklISjMyaFHSAcYBQVVfeXFMTmVxMHZ4UHZGcTFjNFppdS1zek9BQ0lXNTJxZ0NKaEoyblZ1NVNBbk9kOHRfdEhxZmlJM0lPSEdhdjFXS2k3SUNsOHZ0VjQtMzlCM3pJZzJndTBTWm9lbnNtaFU3TWRCVHRmaFZtMUpDeHlYY0lSb1RqcU8tc0xzWFphZTFOaUJ4UVcxcndlOXc3VnVneHNmckVtUkwwTU8ybWEybmJkU3NZQ1RibWNJbnFRRTlfZXNPX2FyNUQwMTJJSEozMmhR?oc=5",
-   "date": "2026-11-02T19:01:28+00:00",
    "secteur": "agri"
   },
   {
@@ -893,13 +977,6 @@
    "secteur": "finance"
   },
   {
-   "titre": "Licences de pêche : Fatou Diouf détaille devant les députés les irrégularités relevées dans les dossiers des navires",
-   "source": "NDARINFO",
-   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXpnY3RiQUtGOEFMODc5eU1XcGtqa3R3OEY0Y1pTeHF4c2dDenIwb0V5S0t2TDFrRVFkd0F3aFNLMmdWa2F4SzN5SVhuUGtMYWtGSDNId2t2N1o0Z0JPU0VyWldiNVVpUE55YjlqanFaRmlzMWJ2ZFF0SXNTbGVZVUUwc253aEktTHNfSWp5RlhfcnZtVUNxeFlIRklvaGxiRmY0MDNrY3FickRiQk0yb2F4UXNpdlJDR3A2dkh1aU9JX1hXS2hCd3ljUGJ0ajh4YVY2cFRTNWM5aFVDdHJKbVNUTzRJUQ?oc=5",
-   "date": "2026-11-02T18:17:00+00:00",
-   "secteur": "agri"
-  },
-  {
    "titre": "Électricité : l’ANSD relève une baisse mensuelle de 6,5 %, malgré la hausse de la SENELEC",
    "source": "Senego.com",
    "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEg5bUtKczBxeWFiUWVLVFhrcmhhVzNZTW5na3FhZFZIR1dpZ2NkaFpKZ0F4a0p4d25wZ2JLYUNvMGtaeEwtQkZoRXNnRjduX2NfcjRRWldNR3dWYWxWVGZJQVRxOUVxbmJLblk2QVB0dWZ4Z3o3YU15S09rTzJJT3djc3RZd0o2X1Zfajk0OUFOcW5jOXZYaTVWR0M2MFpVZmgtclpVMnZPMndtaldzUzlSTU8?oc=5",
@@ -925,7 +1002,7 @@
    "source": "Challenge.ma",
    "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTNuM0E0NmJ0QkI4d3JnZVh1Q0pCS2drVkhBN3I2WC03NE9QTHJ0eXc2dzVvb2Jma2lLOGpXdWtoRFkxMlQ0REFmckpkVDgzanFLZlliY1JReXNxY3FIUFJqZHhZamFhUDVwR3VpNlUwVHhKZS13U01jR2dqaVcwRzB2N3FTRHNPdEZXSnhMajhfRktkeVRV?oc=5",
    "date": "2026-11-02T16:50:51+00:00",
-   "secteur": "invest"
+   "secteur": "finance"
   },
   {
    "titre": "Archives judiciaires – Tribunal de Commerce Hors Classe de D",
@@ -977,13 +1054,6 @@
    "secteur": "invest"
   },
   {
-   "titre": "Direct Assemblée nationale : suivez en direct l’audition de l’ancienne ministre des Pêches (vidéo)",
-   "source": "Senego.com",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc25JZjJFV2oxekVJSHY0VDQwcjY1SzdaVWticzAxOUxLeGtWTmlMbThtNE1pUjRZTjdDbG5nUzdTUllBR2FqekE5RFkzZXlKNk1jUTM5bUdFeUJPaVFBRVhSZkdBcHVQQWlKU0RuNFhTdFdFV0dHdGUwM1Q1Wk4yNTF4UDQxTzFWV0Vwa3pFZTFKNnZtUW5CMVdNZVNQdVlRS2UyckpCMWt0OUVHWnRjZTRHUmJ1RkRtMHVsRkhCenpYdw?oc=5",
-   "date": "2026-11-02T15:29:49+00:00",
-   "secteur": "agri"
-  },
-  {
    "titre": "Les opérateurs tunisiens mettent le curseur sur le Cameroun et le Sénégal",
    "source": "African Manager",
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFVvS1hnRFJJbEVfOFdwRE8wQXI4UkRFYWVsOEtZcXBJZjlMWjE5YlZ6WjJSQ3FFWHhSRUpDaFIxbU40M3IyaFZIMjdIMWtoSTdPLTc2NUgtLVU2eUVySjRFbTNmRElCbFBSeUptbzY3d1JCQkI0TVdqWGJlQXdsdmZqb2xxRUpuOVVWeU0tSjZrdkNMRVM0MFJORmE1dzUydVU0?oc=5",
@@ -995,33 +1065,19 @@
    "source": "Teranga News",
    "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1dlZGVNdjdGZVRzdzg0UElzTW43UFVqQml4WWNoRHFpYkJ4Vi1nQ3ZnTXJUWmRJTnMyZVhiaWtGRXFldFBsNjVsRVRHcVc2c1g5bE9wYmxtazBKbkNhb3RwaG5Ob0NJS2NmSGpGblQtV1E0Rm1mSEdmVkQyeGQzQXVHQkRzdWVmRFl0c3dtYVlBTnZsa1dsaVYwX2ZpR0JTQ010NnBnVEpjdk0?oc=5",
    "date": "2026-11-02T14:43:08+00:00",
-   "secteur": "energie"
+   "secteur": "politique"
   },
   {
    "titre": "Dakar 2026 : l’Afrique accueille pour la première fois les Jeux olympiques de la jeunesse",
    "source": "Teranga News",
    "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjkzajRxOVBqRnZWZzFPMllaRzNSY1lMeE5OY0kyb0tHRmdsR1A3WFRFZnNlWGdHcnZsSnFDZjZsWjJaMlpScDZ1UTljS0lrckJTQ2JhUFJOei1PdFhKRUlmdTMxczNxaTdpNVQ5MExOZVZQOHVaVWs2cGttdXpLVDJDOXpuQUl6RGdIWHpFYk5MU3pYVTZJOENQd0MwbVprOHlsSWR2V0ZNZjhydXA1eGNqZEpRQjJxSUE?oc=5",
    "date": "2026-11-02T14:35:31+00:00",
-   "secteur": "energie"
-  },
-  {
-   "titre": "Blocage de la LFR : Djibril Ba alerte sur les menaces pesant sur les filières agricoles",
-   "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ055aVpZUGhleFp0VWRFUmJjU0pmWkwzVDlZTTB6dVNfaXJfTjg0TzlyUmt3UlNFejVkRlFoamhXcnhuTDhKMUx2V0t5bWJlVzRjT0E5a1VfT3BnVks1clZ5dkVsbWNTWjc2Nk9Ibjk0Q0pNdmlJcVRDSmtPZnVWU05QRTNURUdKNXI5RFh0eU9mTGRqaEthZ3lnZ3VDVE9GYndXNm9xYlpIbVhlYUJmVFNYWWZlNlJSN18xakFtWTFxN2pzbFppbUE3V1JMeGtidHJFN21XOA?oc=5",
-   "date": "2026-11-02T14:33:20+00:00",
-   "secteur": "agri"
+   "secteur": "politique"
   },
   {
    "titre": "Pétrole et gaz : Le Sénégal mise sur ses ressources pour accélérer son développement économique (Abdourahmane Diouf)",
    "source": "Seneweb",
    "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNd0xvWmZzVEMtbU5wX0NEWlBkMU04Z2RVRmtUZ1pJd0Q0djFQQklUTS1CV01EUko5UE9xZlJ5T0lVcXFBTXhuMGxqRnVUbW96VU9YUDZxN3NkMUpDaFhBanMtSWYtOVdGNFk5M1hDRkhwSnFrZDZxYnZrMDZBUUROU3JrWHNmUmtoUHV2Um1FWjVFTmZjY1VmNDBKWEdwRjlrZzdiZ0ZDd2hBcnZkSHdIdlRXMG9kYzZ0bV9YcTh2TWtJZVJJeTZqNXJUdF9OSXNnUEI4a28xaHdGUzFsSXBOU3Zvcm1VVEJpVGFXTl9oTEdpVEI0T1N6c0U3WDl5SWlOdDJEaU93?oc=5",
-   "date": "2026-11-02T14:22:11+00:00",
-   "secteur": "energie"
-  },
-  {
-   "titre": "Oil and gas: Senegal is banking on its resources to accelerate its economic development (Abdourahmane Diouf)",
-   "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZFBQdS1uSHBlb0Y3MC1wS2RkRUlBa05OYkstVVJkYWFJNEU0MkJEaGN4M1VacTd6VURoQnNyRGo4aUotU2xRUEo1aXJmNnlYVWgtd2pzVjRYejJfY1hxblNTS3F3SUFTTVRrS1V6TzB2QTVMQXBLaXpQcmZ2Y2k3dWYzaDk5cVNZVmJ2QUVLanR6UFhkN09fbXJiOW9PVnBLaXVoTlU2RC1PSjUyZ3JuZzl4SVlHdE9rZ2RhZ0lKeEE2WkxnY01IeHhIcVRhc2FuUEJVOW50Z0ZqcG55TDlxYTBSZzBiV1JMS0o0ODVOWTEybVh0eFFlRHBqZHhFaGU1ZjcxMWtR?oc=5",
    "date": "2026-11-02T14:22:11+00:00",
    "secteur": "energie"
   },
@@ -1054,20 +1110,6 @@
    "secteur": "energie"
   },
   {
-   "titre": "L'industrie de l'anacarde au Sine-Saloum en danger : Les transformateurs dénoncent l'absence de soutien de l'État",
-   "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaU00NWctR3lTTC1IWUJLZWdmRWtrenBYRTVPMXNtQ282ZUZMVC03TXFscHJNY24xclhCWUxsVFF3OWNSUnY0TDNBaDA1b1ZCd1lfS2pLNW9ZM2ptSjlLSzVkWWtkZUprYWRoUnZjOFNNc0dNb3psa0lYWUZNcjUyVkk3RFVRWFdoU1FaWDJLS2NzOUZzMTFjUXdWNHo4dzN1LUR3Vm42b1YyQS1WdHNGQllheGRuOXg1SUVINjl1ejlaQ1E1akpVMWpxUGt2ak9aR243am1RdjRpVEJVR04zbnBmX1lDWnRrcmJYaGcxR0staFU4aWFVR204cGY?oc=5",
-   "date": "2026-11-02T13:36:29+00:00",
-   "secteur": "agri"
-  },
-  {
-   "titre": "Licences de pêche : Dr Fatou Diouf convoquée, l’ancienne ministre annonce sa comparution",
-   "source": "Senego.com",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3RoM2phZlc0UENZSnZpVUMtMmkxTkNzWEk4bGtLRVNrZDdmMWVIb2NoTFRkU21MWEtWVEFtX2t3X1U3eWNTVXkwbUt2amRSSmRHcm1BWGVCQlFtTDY2ZzluSnpNY3duZXBtOWJNbXoxLTN6azhNam5xUzQ1RmdOeURsVmhZU1RpangzMUhDOGZCOTRhLWdVaUFHTEtLblg2MkZpQTktNlk4el9qUmFWOEJ1MWJhU3M?oc=5",
-   "date": "2026-11-02T13:31:18+00:00",
-   "secteur": "agri"
-  },
-  {
    "titre": "Jeux olympiques de la jeunesse 2026. Les premières médailles africaines remportées, dont une en or !",
    "source": "africaradio.com",
    "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUXhveWhIdTU5bnQ5UjJBVmlyLThFaU5KYWNETF93dldSQlBRaE9TcG9LMG83eWkyV3hlZWstSk5tckR4aUZ0RU16cklpaTVXWElIemNKbTZ1R2p0ZnAtMUJ1MUl3bl9hWlBvTmZhejdSb0FXSDVNUVluUWNGbVJUWldWUXYyWlNZYjE2dkFLZFVfUy1STkI0MDVlVkZTdFJZWWhIZ1B4TXl0M1p2N3JUVkdhU3YzaUtaMUJUMlJDSFlqWWJTcV9HMkhna1RiUDdHak01c1ZwZXU?oc=5",
@@ -1077,23 +1119,9 @@
   {
    "titre": "Accord de partenariat entre les chambres de commerce tunisienne et sénégalaise",
    "source": "Nessma TV",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVEFCaWJGMVBwN0gzWEdZeXZKSjZEUXRUSGZnVmNSQ1pNVEE0TXFkNWxJbDlmc0V0WThycER5cWdaTFhpTEJXYWltNEQyZWRNeEsydUhMVFdSTVZXSmFqTUt3NjY0YlR0VUVTenk0bGR4SDJicUtkZUZLRnpWYWE4VkxKZ2FfX2JETGJZd0RzSkc0ZmZpckF1ZWNHVWNyTEd0NUVLcnNTdXRNYU5oNUdIYUdMbzJudjJQQ1I2WWM0V0VsMWFTM2VsVNIByAFBVV95cUxPVEFCaWJGMVBwN0gzWEdZeXZKSjZEUXRUSGZnVmNSQ1pNVEE0TXFkNWxJbDlmc0V0WThycER5cWdaTFhpTEJXYWltNEQyZWRNeEsydUhMVFdSTVZXSmFqTUt3NjY0YlR0VUVTenk0bGR4SDJicUtkZUZLRnpWYWE4VkxKZ2FfX2JETGJZd0RzSkc0ZmZpckF1ZWNHVWNyTEd0NUVLcnNTdXRNYU5oNUdIYUdMbzJudjJQQ1I2WWM0V0VsMWFTM2VsVA?oc=5",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXJGb2MzMS1sUjdHT1Q2T2VXaWVhM1hqaXhJVGtMMmJJNVdyTXhKTmsxNWNiY0o2aTB0MXZsYnNqc3hNbFJYN1hSUHRTNUdoU19VYzl0UWo3SHppX1BBOWx5bjAwbk4zQXJTVjh4cDdDQzN0N0VYTW9uSEpxYUU5dUVMNko1WXhQWDZyaG8xMEFCS1NCTnlzX185MXlnT3hFZWwtcDliOTFzczZkR3dFSGxjS250Z2VsQ3F3Nm1uRmNKdUnSAcgBQVVfeXFMT1RBQmliRjFQcDdIM1hHWXl2Sko2RFF0VEhmZ1ZjUkNaTVRBNE1xZDVsSWw5ZnNFdFk4cnBEeXFnWkxYaUxCV2FpbTREMmVkTXhLMnVITFRXUk1WV0phak1LdzY2NGJUdFVFU3p5NGxkeEgyYnFLZGVGS0Z6VmFhOFZMSmdhX19iRExiWXdEc0pHNGZmaXJBdWVjR1VjckxHdDVFS3JzU3V0TWFOaDVHSGFHTG8ybnYyUENSNlljNFdFbDFhUzNlbFQ?oc=5",
    "date": "2026-11-02T13:17:00+00:00",
    "secteur": "agri"
-  },
-  {
-   "titre": "Licences de pêche : l’ex-ministre Fatou Diouf devant la commission d’enquête parlementaire ce lundi",
-   "source": "NDARINFO",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjI1RnZGSVFpeUl4SFljSERaWDltM3JzcDFoRmZ3QTNuak9RbUdxQ3VOeG5kWUhBbkxmRXVIOXRVbFBPbnEtenYtcDg0dzk2N2ZmS2daR0FPQ2dUY1d6ME5sTnJyM1lDQW1CYmhkWW15TG9UZ1FOMHpmWEZMcmxfMS1YZW51cXdJNXB0dUpucHp1cHhrRUZsaTVGQUZadHhCZnVkWnZybHRjNk1SRVY5ME1jcm1oanFfblVEWnBFYUVuclBzQ1NMVWtfdzdPSUk?oc=5",
-   "date": "2026-11-02T12:49:00+00:00",
-   "secteur": "agri"
-  },
-  {
-   "titre": "De sa cellule à Rebeuss, comment Khalifa Sall a contribué à sauver la candidature du Sénégal aux JOJ 2026",
-   "source": "SenePlus",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmNMVGoweWhGaE5DdERGSzcxai05ZGczTElSV3lBUWtKZUNfY0JacHJMYmZCUGRvWW9jTUhUMnlDdUNkSDBPeFBidTR2V2l4MlJxMWt4a2FrZXF5UkdPN0dpLXU1N0xjUno3cU1lanJweVZQbF9zZFJnbE9RUTRTMlNHZVRfM0NxR2dzemRtTE91WmRPdkdiUzZ1dXVLU2Zxd2U3bmFBOVNzLWprSnRPcDJZZlVleVRwY21VZlJoNA?oc=5",
-   "date": "2026-11-02T12:39:20+00:00",
-   "secteur": "invest"
   },
   {
    "titre": "Interopérabilité dans l'UEMOA : Pourquoi Wave tarde-t-il à rendre PI-SPI visible pour ses clients ?",
@@ -1101,13 +1129,6 @@
    "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSFRvc19XcjE0a0sxaVg0YVhoak1xRFlzMUsxakVsVnpoZ3hoTlMtNzRrZ205dHZyamJiLWNVbUowVW9GMkxOMkJEN0F5MUtfTUp0Q0V1Ym4zQ3YxdEpwWEptRDFTTGctMUw1dkprNENkX3dOOVBPOWd4OGhlREhCU0VYVUFVZm5HeUhBaVlXTVBiZDJFN0NQbTBrTE0xVkNkZmUxZUE5S21lWHI1VTVoMHp4eGRFYS1PNENXM09SNFlPLWdCWlFpUW9hcFA4UTg?oc=5",
    "date": "2026-11-02T12:28:00+00:00",
    "secteur": "finance"
-  },
-  {
-   "titre": "JOJ Dakar 2026 : de la fierté virale au rayonnement économique et culturel",
-   "source": "SenePlus",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGd3OE12VzU5SE9iclZ2WC12LXVmanVpM0JvSE1RTUVGMlg3Y2NMd2wzWWhjU0hLRHRyRTI0R21ZbWw2V29va0d1VmRseUlST280V0VWQ3ZIakZkYmcwSE5IVnMtY0s1OE5EUkRxd1ZvakpDLVpnb2xYV1AtMm9Ub3lDZjJMdnJ0N0FJc2JmZ3lBb2hiOXc1UDBZdEtCUGs2SU1XVklXYkQ?oc=5",
-   "date": "2026-11-02T12:18:50+00:00",
-   "secteur": "invest"
   },
   {
    "titre": "Technologie : la fintech sénégalaise InTouch franchit une nouvelle étape en Gambie",
@@ -1124,18 +1145,18 @@
    "secteur": "finance"
   },
   {
-   "titre": "Casamance : un bateau de pêche sénégalais chavire dans les eaux bissau-guinéennes, 13 personnes secourues",
-   "source": "Kewoulo",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlJsM2I4VWdjSm1iQTQ1ekQ5NW5QQ1l1N1BjZ05xeGFYZGFtNERYQWc5bzkyQ1pCUUpNbDJGT3UtVEdqWUlMQS1QNTZwMmtVeWVWanRqOGJQaHI0Zm5lQXd0QjBWNUhLVzhtZmFRdUZjQTI0a2x1eU9IQ1pGSGNqbGtrdzJxcHNlU2p3U29wS0VTUVBCRHpRSWdvSE1pZFhyRUxIQ09qS0RFbXJLeVBoZVBMSUJmeXFwWDNJSEU1cWtoUQ?oc=5",
-   "date": "2026-11-02T11:44:50+00:00",
-   "secteur": "agri"
+   "titre": "A 94-meter tower in the heart of the Plateau: CBAO launches the spectacular construction of its future headquarters in Dakar",
+   "source": "Seneweb",
+   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPemQ5dEdUMzhua29FRm9hQm85Ujd6bjhfeGpfbi05N3Z3cnRLZEhvM25ILU1UME1uYlFGR2dRLXVSMHFBM3M2RmlEUUYzb1hZVU5TeldKd2VobmF1YW9VMzVaZUhWeTJLN0tZTmtrZ011aHNDdEtzZGRSOXFsbUVmaEJtYkUwU3M3ZmxCM0VrNWtINllTMkVHaGlETDhNNmpEc2hwalE1cmVzRklxb3Zsa3lSMTZIV2ZOMVpLZ0xxZVBlQmZDQmg0dUlaSDVTM29CN0tUSE9uY0xnTVNvTjdaT0FBZDJvZkVVUlBCRDVpX3B4M1FVa01lOXVCSVhwa0JIOURzc0YxVmpDcUgtc0x0MA?oc=5",
+   "date": "2026-11-02T11:53:51+00:00",
+   "secteur": "finance"
   },
   {
    "titre": "Ecobank Sénégal, premier Spécialiste en Valeurs du Trésor pour la quatrième année consécutive",
    "source": "allAfrica.fr",
    "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XeG1tZW96YWNTUzlBMUpLNTlfeFZ4bklVc1JsOEJZMEZEamg2U2wxYnZROGUzOUNYcHRzd1FiaTY2YkNZMkpXS3ZGLUpkRlM1anZEeDdqZXJ3WEI3LUc0?oc=5",
    "date": "2026-11-02T11:27:26+00:00",
-   "secteur": "invest"
+   "secteur": "finance"
   },
   {
    "titre": "JOJ 2026 : « Si c’est cela une dette cachée, le Sénégal en a encore besoin », une association défend le bilan de Macky Sall",
@@ -1147,9 +1168,9 @@
   {
    "titre": "JOJ 2026: \"If this is a hidden debt, Senegal still needs it,\" an association defends Macky Sall's record",
    "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa0JoeXM0dHVxNEdoQVhRbGhkdERDWlA5VmhoRzlDRzFlQk5Ccjl5U05nVThyOG05cGpIallpdkNuYUdDamFMMzJFRk9UOU9IcGlRU0NTVVlRMzFhRUtvNUlHejBuSTFqRUVUUWVBTGxMTmozQ3dIcWcwX3pJRERZbjEzc1YtbnpmUmRkajVUdUw4dlZrazdsOE1wb3ZhSjN0YWV5blJKOGx0QkVadEtrdlk4eGF6WmZpZDNuQ3hIcmc2WVRVT29NSUk1ckxieG91QURaNnBFSE1xOEQzdmYzNTN4eEk3SHJ1WHNRX3ZB?oc=5",
+   "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX29wX241YU9ZVkRtR2pSOUVzV3pzWkJ5Y2MwSWtXc0lwQzV1WGxkZHZjTkVHWHljRHppMVhPWXZNVXE3UGFWdnVXbnpRRW11SFBhdnhuTmIybEFXVGlqdXBrTWNUVVBGWVBUWFV0SEozQUpSMVVxR1FGQllLM1RKTkZjZlc1ZkNRWDJaNElhbXdVcTdxNGY2c0hreFltLTc5TG9FeUpUbDhyV1Mxa3dBcGlubVVJZ2RnUEg2bUwwYW5yM3RiY29jODRUREtOWmpBek1Sb2p3WXNXZ2Z4VjVMQkFOUWxwUm9IV3UxVy10US1BeVpsRWE4eDBYaXVuUWZDdDJJ?oc=5",
    "date": "2026-11-02T11:24:53+00:00",
-   "secteur": "infra"
+   "secteur": "finance"
   },
   {
    "titre": "\"Comme dans un rêve\" : Gaspard et Simon, les deux cousins Laharrague, médaillés d'or aux Jeux olympiques de la jeunesse avec les Bleus au Sénégal",
@@ -1187,6 +1208,13 @@
    "secteur": "energie"
   },
   {
+   "titre": "BCEAO : les plafonds des comptes mobiles doublent, certains transferts deviennent gratuits",
+   "source": "Senego.com",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEpXVEYwaUxlOGVkaGNVMUsweTVnalB5VzA5RFF6ZXNhUmRFT1JLMEc1eDdQRVhPLU1kMXRDUE1CLTV2dzZyMHRvenJ5Q1FhWUdYSVZjaXhwVUktbi1PNk9Kek1nQ3pGa0Z5UGlmUXdEMV9BV211T21rSUdyTWJJR2dvTzR5WXNwWnN0MTZQN0pFd3VFMGRidjFQZmJvak1iM3pqTDA3WndGb2NlYXVyVzctRkhxZlY3ZUhj?oc=5",
+   "date": "2026-11-02T10:20:39+00:00",
+   "secteur": "finance"
+  },
+  {
    "titre": "Sénégal : plus de 23 800 nouvelles immatriculations au NINEA au trimestre3 2026",
    "source": "APAnews - Agence de Presse Africaine",
    "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnhLcGh1V3U5SkdlUjdwMzlzSkFVbGZHclBLWlNLVzJDMGlWRWpKb0luNm5PMUNYeTAwam5zSjVPZUwwNHhiM2VOUTlmNWhtT1prNTVndkMxZUJUcWZTOWhDVnRRay1mbUZkbkN0dXNMd0NXZ3ltUTZaWEtEWmxIQ3RsZ3ZuRVU1U0VCSUlFZTU4MWtoUTVwUmdVeWR0MGZNcUdLMTlqZVJ6U2FHdnJoRm55elFWdw?oc=5",
@@ -1213,13 +1241,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTRNaXgzOFBuajRyN0hUYVFScXRKeUlSNkpCMlVET0ZYektIanhCenhhWWVkUmk5TzByZVRKVF8tSzhkVHNwWGthWFdsU3JpSy1qUXRZS3V0ZFFHMmRDLXJINktjRDlmOXZWYnF3dExpMEt0LTk0WUR1c2dhb1d6MHl4ZTRPNEJxZUszbmhCdDlpellVQzVBd2diNm1IQ0RiVGsyaVhubDdRV1RRSFRR?oc=5",
    "date": "2026-11-02T09:50:25+00:00",
    "secteur": "politique"
-  },
-  {
-   "titre": "Fonds spéciaux : pourquoi les pays ont des caisses noires ?",
-   "source": "DW.com",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHUtZXljR2FUZmFYX1hfUHJMYnJPT2xOQlZrT2tCUHZaQ2c3ZERZbW43clNqMFpaU2wySUpFT3NPQWlvUXdISHVvLW1iX2NQZXctZTVubHNWZEt4ckM2VDJXNGRuWDNSSnhROFE0T05NdkZlVXlVdTN1YWE2Z3B0M20zWjZXQ2l3VV9NOTBuWmttR1k5SmtlYUtCeUczdEc2bmhIZnU3SzJKY2tKTnRoOFV2VFg5OVRqVDFNSXFB?oc=5",
-   "date": "2026-11-02T09:34:25+00:00",
-   "secteur": "finance"
   },
   {
    "titre": "Sénégal : le budget rectificatif 2026 toujours bloqué par les désaccords entre le gouvernement et Pastef",
@@ -1271,6 +1292,20 @@
    "secteur": "agri"
   },
   {
+   "titre": "Port de Dakar : 10 kg de haschich « Skunk » saisis par les Douanes",
+   "source": "Xibaaru",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmgxeDJnVFRBcGtvbFpSYlFoZkZuRTZHRGRlNzFjd3hUSGlNVWhUdEZSWjVrN1NnT3NQVXJ1TEYxYWFOSlZ6dVFESGxwbTNGVXgxSl9sVFVYS0d2b0tPai1sU29TaEV1SU1pZ1U1enAzYmpCZzBWYTlzV2s1OGkzRGdkUVYtVVJfUl80VQ?oc=5",
+   "date": "2026-11-02T07:23:55+00:00",
+   "secteur": "infra"
+  },
+  {
+   "titre": "UEMOA : une note plaide pour un franc CFA au service de la production",
+   "source": "Africtelegraph",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUjlaUHR4OXBWS1VGRmxQU2JXV0twNnE5WmVIQ2s1MG55QkdHVEtQV2pBRmZJU1FTNmNaOWdhQU5VLVlOQjdKc3Y5eUdrU25feURQOFU3RnpMQXpGdGY5bG82T01peU1RTkZOTTlhZDZJUE1LZ1BrbndxNk9XWWNscndUd3Z5STByeTNoSXRXd3N3V0xkc0tvTF9FWWZkMDBnbVE?oc=5",
+   "date": "2026-11-02T07:09:44+00:00",
+   "secteur": "finance"
+  },
+  {
    "titre": "La Matinale Senego : Senelec alerte, Mbacké attaque Niane, Cheikh Oumar Diagne réagit",
    "source": "Senego.com",
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWRid21vLXhuNmRzaWRQQzdoeWgxOXkxNGZGY09nZ3EyQnJHVUhjYVRBRTVNVlc4OENmOTNDa240QjZZcG5nOGpKZEZsbmRRbEctWkdYRTRQWmpkUnFOaTJEaDU4WG1icFlDdEZxaFdzdEVLeDl5V3c4bDNiNHotblgzVkczZDZIeHpJX0dOMmo4eU1taU4wNm1uYzhvRFFYRC1sWkJEdDRmUE82Tl93UllVMA?oc=5",
@@ -1283,20 +1318,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTFdHVnc3c2JTTi1LVTZsb1NJUnFKY3VVQUxzQTVzeUhOd1ZrQ0lFd3hBMDhSVnUyOHBRN2tSSTIzcXMwWmw1RWVPME1uWFBfUmM3QWo2N1RoeUxncmRZOWVWcmNFZVR0Tm5FSy1LRjh4OHUwWmpodlRxSlJJNEh6a20yNF94bG9LLUJ4S21ZTDlVUQ?oc=5",
    "date": "2026-11-02T05:37:39+00:00",
    "secteur": "tech"
-  },
-  {
-   "titre": "Chaleur au travail : au Sénégal, l’équivalent de 129 000 emplois pourrait être perdu d’ici 2040",
-   "source": "Social Mag",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2xhenBNN3pBLWtZNkx5RVRoY3RzYUEzb296Ykh3djRmcjlFUk1ZZ1htTVEyQXF6QWs2bF9MbTZaSUZVSHMzaHpHeGlkN3BoMGlwcEtEdXlhd3ZYdXRxV1hpMENoaWF1d0NyU2JnNXRoYzh3N28zdG1YbTFHUWpCcDZQUmpPVTJpcEZVU2FzNmtGQk44T1VuMy12aXlLaW8?oc=5",
-   "date": "2026-11-02T02:48:47+00:00",
-   "secteur": "agri"
-  },
-  {
-   "titre": "Souveraineté alimentaire : 194 diplômés du CFPH de Cambérène prêts à relever le défi agricole du Sénégal",
-   "source": "Leral.net",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXJqRjBQVGlfaTdfMFM3NDFFRmk2aVlRNTJtMjh4STc3eThOeFlkWmdtUDVRbTZFdExmT2lOQzM3MlVMd3Vtc3RYWnJOX0U2ajBycEFPM0pEUW93LTJ2ZzhIMm9zWEdWZHlCUXBxTzNDdUxyVG9fSUhwTnpOaWdsVVVfdXoyMXhMYzhGX3NaeS1vWmV2Tzg1cHFUUVdxMzFySHBhMlpjMDh2SWZWT0F5WFYtazloZTdqT0l3UHFrR0VFZE52QUl6MGtLZHRkQmx1bkZj?oc=5",
-   "date": "2026-11-02T02:47:00+00:00",
-   "secteur": "agri"
   },
   {
    "titre": "le Programme JET booste les PME avec 190 millions de dollars de la Banque mondiale",
@@ -1369,18 +1390,18 @@
    "secteur": "infra"
   },
   {
-   "titre": "Festival Alimenterre 2026 : Le « faux lait » importé au cœur des débats sur la souveraineté alimentaire au Sénégal",
-   "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQTV0TzVGaVdJQ0x1OFNycl8ySXR4OGlvbWcwRVVvWGRvaDFqY191ZVUxTTFfVnJDdEtJakZHNDNNOTVOcTgtWjJaU2p4TXhHOFRRR2g3RG85eHAybWc3YjNRMEJFVy1KTHViUVVnTTZEY3NadEhDNTA1RW5EV1h5ZGhaNGV0YW1lMmpJd05jcng3aEx0TE15RmJqenZPdGg5WURrRnN3a3J5U3RlQWVQTG4wNGJ4WXRFeGRuTWlNTXdaQ0N5T3VDSUNHeTdrazJGaXVNdFdUMEh5Q0tQVEEwNU9oSnlac2VYaktMMWNQa1p5Qzh5aFg5VUln?oc=5",
-   "date": "2026-11-01T15:11:45+00:00",
-   "secteur": "agri"
+   "titre": "Sénégal : pourquoi la majorité bloque le budget rectificatif 2026",
+   "source": "africactu.com",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVN0NkJDbi1POXdteTBXWGNNeXB1U3d4SkVvX0w2andJQ1hlN20wRWdMclBCMDZLX1JWSU8tUUtYNTFjQkZyUE9qVUpERlhpalpsOENscGEza19fcGZZQkpiSkZjTUxiSmltMjd4QXpSR2xDUk1Zb0V4eU1jN0k2X0VldzdFTGo5em5acUNjQ1pqRUEyNmprLTF6ZHBGdjVE?oc=5",
+   "date": "2026-11-01T16:04:00+00:00",
+   "secteur": "finance"
   },
   {
-   "titre": "Alimenterre Festival 2026: Imported \"fake milk\" at the heart of debates on food sovereignty in Senegal",
-   "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWGJ1OEt0Rmg4ZWRMd2NBd2RjTXBUN2E3eVNHbE1Wd1hyYUZkWUtXLTE5RldRRF9nOGVHa3Z3a3lMcVQtMHl6dXFVUThfc1VReWY2d1hFTUdHSWZ5aXEwWEwzSFN1VEllVlNiRHJ1TkEta2JjYUFXQVk2MVlxZkxSODNnMy1lLVg2SkpzTVJfemFyWkx2NXVfdTdtR2gwZXpFREhEbC1pSE9LTFZZYzNSM1dNQlpKamRXQXM3TjM0UXk4UlBHZGJoUlJpbmRWQWpKWUVUMGs4QmtodkU1Z2c4NC12MUh3eWdzN21HOTJWWGhYVEN5M0FzM3d3?oc=5",
-   "date": "2026-11-01T15:11:45+00:00",
-   "secteur": "agri"
+   "titre": "JOJ - Beach-volley féminin : Aminata Tine et Nafi Ségnane, un deuxième succès et les yeux tournés vers la suite",
+   "source": "SenBaat.com",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdE5saUhtQmJ2NUtZUWZueGMwWTVRQjI2eERoWkotWmp6Ql95alZLWDZjRm9JaDRqNEZsb3E3eV91d25WcjJqMXFZSlZQSmlvR1RqUVljTS1BUlcxdVYyXzZGelJWamNKbzRKN3lKUGNyOWlsNG8wclEyTnZtY2tSVmdWVER4Vll6Z0dMN2wzcGZIekxWTHRKZW1NYVQ1cnc2QUhMWWN4TGVpMGRlaTJWNktEWTFVN3lWbEZkeUUyMjV0YmE2Z2J6ZnJOdw?oc=5",
+   "date": "2026-11-01T14:55:34+00:00",
+   "secteur": "infra"
   },
   {
    "titre": "Sénégal : l'accord avec le FMI menacé par un blocage politique au risque du défaut de paiement pour le pays",
@@ -1388,6 +1409,13 @@
    "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc1R3aVcyd3dQeGZRaXpQMGZPYjg4aVM4VlRRTy1fdmkyTG9lU3ZZaEhraE1PLXh6a2Z2Vmw1OU16LUk5dmZaVENMY3QxcFBEUDlTUVV6d0JfaEozMmtTVmdDbDgxMnpWSmIyX25WbU5GTjdhV3NDNC1LYlNGTXUwLVVYeThubExnbGtZLXRWV2x0WU1CeTIyTGdGaFNFX042cW5XN05UQ0JydDFIdzB2R19FWG4wWUh4SmlsQmhwZmtXM1Jfb0ZiVzdQakY1OUJfQkxlQ2Z1YUpjcHd4NXNIeWd3RGlWNVlnVTdsSGJ0S2liQnZtdWc?oc=5",
    "date": "2026-11-01T14:45:21+00:00",
    "secteur": "energie"
+  },
+  {
+   "titre": "Youth Olympic Games Dakar 2026: Senegalese women continue their winning streak in beach volleyball",
+   "source": "Bénin Web TV",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZkVNYWtRQmlkd0tSRTFYaENhUTNHWnRVcU5VdEhNSnVWQVBPVmFxdTI0TllXZVY1WElkYUxfTW5lWVJIS1ZYYjdUN2QwR2d6RXNxZktub2Y2eXo4bHc4OTdnSTBJa2lYT0JFWGd3OC10MmFQaWVWa0pjbFgybE9WMUN3VzNMd25JZnMtbVVjRGlBakFjR1hJRnZQM19iclQ4VTZOY0NQdWpNMW5jX1ZZMGt0Rjc1THEyeGJKYTlGcFI?oc=5",
+   "date": "2026-11-01T14:33:32+00:00",
+   "secteur": "infra"
   },
   {
    "titre": "Pourquoi le gaz sénégalais intéresse davantage les investisseurs",
@@ -1409,34 +1437,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOSmJya3I5UlJQem14YTF2NWY2VVk4dEgyNGZ0a2pXdG42LVI0OEhRaXRBZmtoZ0JYcTBGUVhaYUhFZ3FKUzdvY3dhY29xYVo1VWtaZWpTd3dETFJ0TzRiMmFYdVgxeVo4VTVMa2JqMUFfZ3ZzbGJEZDFRRVdfcDh5ZnRHM2lMMEVJV09MaVlOMWViaHlpYm1lVzJIZnNGWVZYaWE4NzV5SXBYQ3lRTEROTHVPSmswV1BtajBSMFBPM2RvMTY2Z2poV0p1WF9XVmVXdVY0WWdKTktLRFAzZ3FpVDdnZ195VXIyNk5ZYzhmYUphZnpUTnJrd3lOZEx4V0tZaUhRYURVemhWSFJ4VmRmbEp2T3RVQ0FwYjZNSUp1UFQ5U2ZLOURObHUtMFJZQQ?oc=5",
    "date": "2026-11-01T13:20:00+00:00",
    "secteur": "finance"
-  },
-  {
-   "titre": "Le patron de la BRVM reçoit la plus haute distinction de l’Université Laval",
-   "source": "République Togolaise",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWJ4Yi1SQjVPdUdHWklaTmUtZnBsQXQ2SG1KWm50LWdJcndHRy03Z21jTlJ4V3pUdXdXdm83OWdILWdkSGVhbTBPdVpNMU1Jck9RbUhSOFdfa1lqM3hYekxHbmVHSmJobnMwa2p6VDZUM2Z0Y3BySGJBRFhsVk1JQmlXS0E1Ym5kZUhydVlCaUxDRWtDLUY2RjUwQXFYLUh5U2p6TXVld00ycDExQVhQQjBPeDhYZ042MFJnVVd1N0lWTXhqWVNxZm1ldUFFWVdEZjJkNk5R?oc=5",
-   "date": "2026-11-01T13:16:31+00:00",
-   "secteur": "finance"
-  },
-  {
-   "titre": "Sénégal : le budget rectificatif examiné en plénière le 3 novembre",
-   "source": "24heureinfo",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEE2OG5mNmJXb3JvbzlGSHFiRW9vMXZDaGZubG9jSDN0U0VCeFR0TmQ1b2F0c09IZDZiSDlxZzlkNUNoQ3lJNjJuQkh5MFZxbW5ENTdoeklZczJTR21BOHRTXzRXa3VCWkFRYTVVRGRYZTgyRHJubHRVdUFIMWlWa0c2aHlWcl8wWGk0MEk2emtFVGdzRkVzWGREd2IxQQ?oc=5",
-   "date": "2026-11-01T12:27:11+00:00",
-   "secteur": "politique"
-  },
-  {
-   "titre": "Malick Mbaye, le pionnier qui a ouvert au Sénégal les portes de l’olympisme",
-   "source": "Leral.net",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkZLN1gxRjllS25PTWN0cWVqaUtUQ1ZkWHVDc0Q5S1ozb0s0Y2ZQUVFkNEdQUk1VUGx2eENxdm1WR0pvem9xZEtlcVltbGdDQkktTktZMlc3V3gtai16S2pTTlE0c1MtSlR6Q2RLOVgwY0VwMnJfeGt4WFNOMWVRMW1VQ0l2ZFN5TmZ1Vmd6d1BTemd4c2EzNEdIalB1QmZyR2Y0di1EcDRXbWFMSHc?oc=5",
-   "date": "2026-11-01T12:09:00+00:00",
-   "secteur": "invest"
-  },
-  {
-   "titre": "Macky Sall : Après le revers à l'ONU, l'équation du retour politique",
-   "source": "Seneweb",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlAyVGFHTkpKZENkN0xPOG9aX3dkTXJ2ZXIzUnZEVEVqQ1ZWaEpMWTFpVjE0MWhpUk96YzdhcHhTRkV4YVRWa2pnaC0zTk1YZG5uM2FkLWZWaU5RRW1GakxjRHBXQUp0Uzc1RG9fVXJuNi05ZnVuZFRwclVCSDFtbWh3aFVUQU1GVkxBc3V0YzVVdGZpLXh0UUJxcW8zWXJYNmNBX3JoWmk1SVBWaXZuR1BGV0NneWhmY1ZkV00wUQ?oc=5",
-   "date": "2026-11-01T10:58:12+00:00",
-   "secteur": "energie"
   }
  ]
 }
